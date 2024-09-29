@@ -1,0 +1,2 @@
+- Character Inherits this Status IF
+	- Players have talked to this Character once

@@ -1,0 +1,2 @@
+- Character Inherits this Status IF
+	- Character is permanently dead

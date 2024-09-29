@@ -1,0 +1,6 @@
+- [[001.02.02.01.A.00003.05 Help the wounded]]
+	- [[Help the wounded: Mark asked you to help Sara treat the wounded soldiers on the ship.]]
+- [[001.02.02.06.A.00003.06 Help the wounded]]
+	- [[Help the wounded: The Water Essence that Mr. Crabs is protecting might proof usefull to heal the wounded soldiers on board the ship. You have until tonight to proof to Mr. Crabs that you indeed need the Essence. Until then he will remain on the ship.]]
+- [[001.02.02.06.A.00003.07 Water Essence Granted]]
+	- [[Help the wounded: Mr. Crabs gave you the water essence he was protecting on board the ship. Now you may have a chance to heal the wounded soldiers.]]

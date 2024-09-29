@@ -1,0 +1,1 @@
+- This character can talk to animals.

@@ -1,0 +1,4 @@
+- [[001.02.02.01.A.00005.08 Exterminator]]
+	- [[Exterminator: Mark suggests to deal with the bees with a poison cloud grenade. Normally John takes care of the bees but at the moment he is ill. Maybe he can provide the grenades at least.]]
+- [[001.02.02.04.A.00005.01 Exterminator]]
+	- [[Exterminator: John gave you the recipe for the Poison Cloud Grenade. Now you can get rid of the bees like a professional without risking your health.]]

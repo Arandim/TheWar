@@ -1,0 +1,1 @@
+- Character suffers from extreme Agony caused by Beestings and looses 2 Constitution in his Attributes Panel

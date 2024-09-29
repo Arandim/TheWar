@@ -1,0 +1,2 @@
+- [[001.02.02.01.A.00009.15 Third Legion]]
+	- [[My Legion: Mark identified your Legion by inspecting the tatoo on your forearm. III.II.V means you were in the Third Legion, Second Cohort, Fifth Century. You have to investigate your past in the Legion once you reach the capital.]]

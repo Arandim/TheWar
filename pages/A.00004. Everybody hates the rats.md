@@ -1,0 +1,6 @@
+- [[001.02.02.01.A.00004.07 Rats on board]]
+	- [[Everybody hates the rats: Mark asked you to deal with the rats. He does not care how you do it. He does not want any trouble with rats on board his ship.]]
+- [[001.02.02.08.A.00004.01 Everybody hates the rats]]
+	- [[Everybody hates the rats: Shaun the Sheep has asked you to help him to get rid of the rats. He promised you the milk of Shaunella and he will even allow you to clean his food stash in return.]]
+- [[001.02.02.08.A.00004.02 Everybody hates the rats]]
+	- [[Everybody hates the rats: You helped Shaun to get rid of the rats. They won't bother him any longer. In exchange you are allowed to milk Shaunella and to clean out his Food Stash.]]

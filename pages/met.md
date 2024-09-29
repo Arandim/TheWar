@@ -1,0 +1,2 @@
+- Character Inherits this Status IF
+	- Players have met the Character but did not talk to them

@@ -1,0 +1,1 @@
+- Character suffers from Beestings and looses 1 Constitution in his Attributes Panel

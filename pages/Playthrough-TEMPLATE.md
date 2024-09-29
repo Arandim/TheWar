@@ -1,0 +1,14 @@
+- This is a guide on how to set up the libraries needed for a new game.
+- Characters
+	- Copy Characters.md and rename to Characters-YOURPLAYTHROUGHSUFFIX.md
+	- Auto replace its content by entering ]] in the search query and replace it with -YOURPLAYTHROUGHSUFFIX]] in Notepad++
+	- Create [Characters-YOURPLAYTHROUGHSUFFIX] as a new page in Playthrough-YOURPLAYTHROUGHSUFFIX.
+- GM Journal
+	- Copy GM Journal.md and rename to GM Journal-YOURPLAYTHROUGHSUFFIX.md
+	- Auto replace its content by entering ]] in the search query and replace it with -YOURPLAYTHROUGHSUFFIX]] in Notepad++
+	- Create [GM Journal-YOURPLAYTHROUGHSUFFIX] as a new page in Playthrough-YOURPLAYTHROUGHSUFFIX
+- Player Quest Journal
+	- Copy Player Quest Journal and rename to Player Quest Journal-YOURPLAYTHROUGHSUFFIX.md
+	- Auto replace its content by entering ]] in the search query and replace it with -YOURPLAYTHROUGHSUFFIX]] in Notepad++
+	- Create [Player Quest Journal-YOURPLAYTHROUGHSUFFIX] as a new page in Playthrough-YOURPLAYTHROUGHSUFFIX
+- Add these three pages to your Favourites to edit them quickly

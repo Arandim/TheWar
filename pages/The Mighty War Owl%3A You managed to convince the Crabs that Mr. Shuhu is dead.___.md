@@ -1,0 +1,1 @@
+- In return you gained their trust and some water essences. In truth you just gave them one of his feathers while he is still alive.

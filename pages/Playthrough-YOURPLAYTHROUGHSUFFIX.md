@@ -1,0 +1,1 @@
+- Follow the guide in [[Playthrough-TEMPLATE]] to create the libraries to start a new game.

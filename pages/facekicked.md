@@ -1,0 +1,1 @@
+- Character got a kick to the face and looses 1 Constitution in his Attributes Panel

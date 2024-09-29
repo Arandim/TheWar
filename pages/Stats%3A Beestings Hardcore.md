@@ -1,0 +1,1 @@
+- [[Stats: Beestings Hardcore Negative Constitution Update to Attributes: -2 Constitution]]
