@@ -1,4 +1,4 @@
-- Description of Enzyclopedia Entries
+- Description of Enzyclopedia Entries Test
 - Description of Encounters
 - Description of Backgrounds (Inspirations)
 - Player Quest Journal Entries have to be rewritten. Their two digit ending number has to increase incrementally by 1 independet from the Gm Journal. This has to increase seperatly inside of each Zone/Character Entry.
