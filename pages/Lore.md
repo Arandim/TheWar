@@ -8,7 +8,6 @@
 	- [[Paladin]]
 - [[Ranks]]
 	- [[The Imperial Legion]]
-	  collapsed:: true
 		- [[Recruit]]
 		- [[Private First Class]]
 		- [[Corporal]]
