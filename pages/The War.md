@@ -53,7 +53,7 @@
 		- [[001.04 Prologue The Open Sea Boarded]]
 			- [[001.04.01 Battling Ships boarded]]
 			- [[001.04.02 Characters and Dialogue]]
-		- [[001.05 Prologue The Open Sea Surprise]]
+		- [[001.05 Prologue The Open Sea Caught]]
 			- 001.05.01 The Enemy Ship
 			- 001.05.02 Characters and Dialogue
 			-
