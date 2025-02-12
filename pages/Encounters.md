@@ -11,7 +11,6 @@
 		- [[001.02.03.08 Shaun]]
 		- [[001.02.03.09 The Crabs]]
 	- [[001.03 Prologue The Open Sea Board]]
-		- [[001.04.03.01 Magister Crew]]
-			- .
+		- [[001.03.03.01 Magister Crew]]
 	- [[001.04 Prologue The Open Sea Boarded]]
 		- [[001.04.03.01 Magister Crew]]
