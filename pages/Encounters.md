@@ -4,6 +4,7 @@
 		- [[001.01.03.02 Mr. Shuhu]]
 		- [[001.01.03.03 The Rats]]
 		- [[001.01.03.07 The Undead]]
+		- [[001.01.03.08 The mean Rats]]
 	- [[001.02 Prologue Upper Deck]]
 		- [[001.02.03.01 Paladin Crew]]
 		- [[001.02.03.02 The Chickens]]
