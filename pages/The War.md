@@ -10,7 +10,7 @@
 	- [[001.02.02.07.17 Mark does not believe you]]
 	- The Battling Ships
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
-- Story Ideas
+- Story Idea
 	- CHECK Write a new story path for Akshan Vignettes 07 and 09 when the Player has made a deal with Mark and got the items and decides to just give them to Akshan.
 		- CHECK Mark has to come and talk to the Player and has to arrest him.
 		  collapsed:: true
