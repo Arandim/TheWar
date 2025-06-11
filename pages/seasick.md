@@ -1,1 +1,1 @@
-- This character feels seasick. He looses
+- This character feels seasick. He looses 1 Intelligence, 1 Strength and 1 Finesse in his Attributes Panel.

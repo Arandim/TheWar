@@ -1,1 +1,1 @@
-- Character is hungry and looses 1 Constitution in his Attributes Panel
+- This Character is hungry and looses 1 Constitution in his Attributes Panel
