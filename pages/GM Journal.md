@@ -6,6 +6,7 @@
 		- Facekicked: #facekicked
 		- Hungry: #hungry
 		- Pet Pal: #petpal
+		- Sea#seasick
 	- Status inheritable by NPCs
 		- **Dead**: #dead
 - [[001 Prologue]]
