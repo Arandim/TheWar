@@ -27,7 +27,6 @@
 	- ADDITIONALLY
 		- Additional Check
 - ALWAYS
-  collapsed:: true
 	- Text
 		- Decision1
 		- Decision2
