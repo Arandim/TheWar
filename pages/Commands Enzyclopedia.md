@@ -67,7 +67,6 @@
 	- FOLLOW PARTY
 		- Charactername TRUE/FALSE
 - GAINSTATUS
-  collapsed:: true
 	- Character GAINSTATUS
 		- hashtagstatus
 - IF
