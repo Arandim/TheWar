@@ -33,3 +33,15 @@
 			- [[001.02.02.08 Shaun the Sheep GM Journal]]
 			- [[001.02.02.09 The Crabs GM Journal]]
 			- [[001.02.02.10 Shaunella GM Journal]]
+	- [[001.03 Prologue The Open Sea Board GM Journal]]
+		- [[001.03.01 Battling Ships board GM Journal]]
+		- [[001.03.02 Characters and Dialogue GM Journal]]
+	- [[001.04 Prologue The Open Sea Boarded GM Journal]]
+		- [[001.04.01 Battling Ships boarded GM Journal]]
+		- [[001.04.02 Characters and Dialogue GM Journal]]
+	- [[001.05 Prologue The Open Sea Caught GM Journal]]
+		- [[001.05.01 The Enemy Ship]]
+		- 001.05.02 Characters and Dialogue
+	- [[001.06 Prologue The Enemy Ship Lower Decks]]
+		- [[001.06.01 The Enemy Ship Lower Decks]]
+		- 001.06.02 Characters and Dialogue
