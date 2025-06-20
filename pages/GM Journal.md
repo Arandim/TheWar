@@ -36,6 +36,7 @@
 	- [[001.03 Prologue The Open Sea Board GM Journal]]
 		- [[001.03.01 Battling Ships board GM Journal]]
 		- [[001.03.02 Characters and Dialogue GM Journal]]
+			- [[001.03.02.01 Clover GM Journal]]
 	- [[001.04 Prologue The Open Sea Boarded GM Journal]]
 		- [[001.04.01 Battling Ships boarded GM Journal]]
 		- [[001.04.02 Characters and Dialogue GM Journal]]
