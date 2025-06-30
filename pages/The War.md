@@ -3,7 +3,7 @@
 - Description of Backgrounds (Inspirations)
 - Player Quest Journal Entries have to be rewritten. Their two digit ending number has to increase incrementally by 1 independet from the Gm Journal. This has to increase seperatly inside of each Zone/Character Entry.
 	- And rewrite a lot of descriptions on these Journal Entries
-- Loose ends where you have to continue the story TEst Test2 Test3 Test4
+- Loose ends where you have to continue the story
 	- [[001.02.02.07.13 Mark does not believe you]]
 	- [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- [[001.02.02.07.17 Mark does not believe you]]
