@@ -120,13 +120,11 @@
 	- SHOW MAP
 		- This Map Ingame
 - **SKILL CHECK**
-  collapsed:: true
 	- [001.01.01.01.01.Decisionnumber Cha/Con/Dex/Int/Str/Wis/+Pers/+Item Numericvalue] Decision 1
 	- SKILL CHECK
 	  template:: twoskillcheck
 	  collapsed:: true
 		- Player has to roll a D20 and add the specified Modifier
-		  collapsed:: true
 			- IF Player rolls higher or equal than the required threshold THEN
 			  collapsed:: true
 				- This happens
