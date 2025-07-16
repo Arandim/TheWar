@@ -15,3 +15,6 @@
 		- [[001.03.03.01 Magister Crew]]
 	- [[001.04 Prologue The Open Sea Boarded]]
 		- [[001.04.03.01 Magister Crew]]
+	- [[001.05 Prologue The Open Sea Caught]]
+		- [[001.05.03.01 Pierre]]
+		- [[001.05.03.02 Django]]
