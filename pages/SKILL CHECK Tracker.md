@@ -81,3 +81,5 @@
 			- [[001.04.01.01 Prepare the battlefield]]
 		- [[001.04.02 Characters and Dialogue]]
 			- [[001.04.02.01 Clover get boarded]]
+	- [[001.05 Prologue The Open Sea Caught]]
+		- 001.05.01
