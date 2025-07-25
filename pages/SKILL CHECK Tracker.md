@@ -83,5 +83,10 @@
 			- [[001.04.02.01 Clover get boarded]]
 	- [[001.05 Prologue The Open Sea Caught]]
 		- [[001.05.01 The Enemy Ship]]
-			- [[001.05.01 The Enemy Ship]]
-			- [[001.05.02 Characters and Dialogue]]
+			- [[001.05.01.02 Lost the battle Thief petpal]]
+				- [[001.05.01.02.01 Pers+Int 7]]
+			- [[001.05.01.03 Lost the battle Thief no petpal]]
+				- [[001.05.01.03.01 Pers+Int 7]]
+			- [[001.05.01.04 Lost the battle Thief Django dead]]
+				-
+		- [[001.05.02 Characters and Dialogue]]
