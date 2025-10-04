@@ -23,7 +23,7 @@
 			- [[001.01.02.03 Rats (Django)]]
 			- [[001.01.02.04 Mara]]
 				- [[001.01.05.01 Armor of Frost recipe]]
-				- [[001.01.05.01 Weapon Recipes]]
+				- [[001.01.05.01 Mara's Beginner Weapon Recipe]]
 			- [[001.01.02.05 Scarlett]]
 				- [[001.01.05.01 Scarletts Notebook]]
 			- [[001.01.02.06 Eva]]
