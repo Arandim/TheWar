@@ -5,6 +5,7 @@
 		- Beestings Hardcore: #beestingshardcore
 		- Facekicked: #facekicked
 		- Hungry: #hungry
+		- Intoxicated: #intoxicated
 		- Pet Pal: #petpal
 		- Seasick: #seasick
 	- Status inheritable by NPCs

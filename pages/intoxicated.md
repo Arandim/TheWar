@@ -1,0 +1,1 @@
+- Character suffers from intoxication and looses 1 Strength, 1 Intelligence and 1 Finesse in his Attributes Panel
