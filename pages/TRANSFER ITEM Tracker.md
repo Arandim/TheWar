@@ -26,7 +26,7 @@
 				- [[001.01.05.01 Armor of Frost Scroll Recipe]]
 				- [[001.01.05.01 Mara's Beginner Weapon Recipe]]
 			- [[001.01.02.05 Scarlett]]
-				- [[001.01.05.01 Scarletts Notebook]]
+				- [[001.01.05.01 Scarlett's Beginner Weapon and Armor Recipes]]
 			- [[001.01.02.06 Eva]]
 				- [[001.01.05.01 Eva's Beginner Arrow Recipes]]
 				- [[001.01.05.02 Eva's Beginner Weapon Recipes]]
