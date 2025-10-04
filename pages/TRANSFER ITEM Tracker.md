@@ -57,7 +57,7 @@
 				- [[001.02.05.01 Bluegill Mushroom]]
 			- [[001.02.02.04 John]]
 				- [[001.02.05.01 John's Beryl Ring]]
-				- [[001.02.05.01 Johns Grenade Recipes]]
+				- [[001.02.05.01 John's Beginner Grenades Recipes]]
 			- [[001.02.02.05 Dwori]]
 				- [[001.02.05.01 Dworis Copper Ring]]
 				- [[001.02.05.01 Dworis Food Recipes]]
