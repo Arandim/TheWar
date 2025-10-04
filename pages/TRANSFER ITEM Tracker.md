@@ -28,6 +28,7 @@
 				- [[001.01.05.01 Scarletts Notebook]]
 			- [[001.01.02.06 Eva]]
 				- [[001.01.05.01 Eva's Beginner Arrow Recipes]]
+				- [[001.01.05.02 Eva's Beginner Weapon Recipes]]
 	- [[001.02 Prologue Upper Deck]]
 		- [[001.02.01 Rooms Upper Deck]]
 			- [[001.02.01.01 The Captains floor]]
