@@ -1,5 +1,6 @@
 - [[001 Prologue]]
 	- [[001.01 Prologue Lower Deck]]
+	  collapsed:: true
 		- [[001.01.01 Rooms Lower Deck]]
 			- [[001.01.01.01 Starting Cabin]]
 				- [[001.01.01.01.01 Wis 8]]
@@ -36,6 +37,7 @@
 			- [[001.01.02.05 Scarlett]]
 			- [[001.01.02.06 Eva]]
 	- [[001.02 Prologue Upper Deck]]
+	  collapsed:: true
 		- [[001.02.01 Rooms Upper Deck]]
 			- [[001.02.01.01 The Captains floor]]
 			- [[001.02.01.02 The chicken Coop]]
@@ -72,11 +74,13 @@
 			- [[001.02.02.10 Shaunella]]
 				- [[001.02.02.10.03.01 Dex 10]]
 	- [[001.03 Prologue The Open Sea Board]]
+	  collapsed:: true
 		- [[001.03.01 Battling Ships board]]
 			- [[001.03.01.01 Board the Enemy ship]]
 		- [[001.03.02 Characters and Dialogue]]
 			- [[001.03.02.01 Clover]]
 	- [[001.04 Prologue The Open Sea Boarded]]
+	  collapsed:: true
 		- [[001.04.01 Battling Ships boarded]]
 			- [[001.04.01.01 Prepare the battlefield]]
 		- [[001.04.02 Characters and Dialogue]]
@@ -84,6 +88,7 @@
 	- [[001.05 Prologue The Open Sea Caught]]
 		- [[001.05.01 The Enemy Ship]]
 			- [[001.05.01.01 The enemy Ship Prison Cell]]
+			  collapsed:: true
 				- [[001.05.01.01.01 Lost the battle Thief petpal]]
 					- [[001.05.01.01.01.01 Pers+Int 7]]
 				- [[001.05.01.01.02 Lost the battle Thief no petpal]]
