@@ -63,7 +63,7 @@
 				- [[001.02.05.01 Dworis Food Recipes]]
 				- [[001.02.05.01 Dworis 1st Handkerchief]]
 				- [[001.02.05.01 Dworis 2nd Handkerchief]]
-				- [[001.02.05.01 Dworis Grenade Recipe]]
+				- [[001.02.05.01 Dwori's Beginner Grenade Recipe]]
 				- [[001.02.05.01 Dworis Lockpick]]
 			- [[001.02.02.06 Mr. Crabs]]
 				- [[001.02.05.01 Water Essence]]
