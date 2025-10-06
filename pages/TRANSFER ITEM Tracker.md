@@ -16,6 +16,7 @@
 			- [[001.01.01.13 Wuffys' Room]]
 				- [[001.01.05.01 Mara's Diary]]
 			- [[001.01.01.14 Mr. Shuhus' Room]]
+				- [[001.01.05.01 Survival Guide: "Behind enemy lines"]]
 		- [[001.01.02 Characters and Dialogue]]
 			- [[001.01.02.01.Wuffy]]
 			- [[001.01.02.02 Mr. Shuhu]]
