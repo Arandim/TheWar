@@ -7,6 +7,7 @@
 	- [[001.02.02.07.13 Mark does not believe you]]
 	- [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- [[001.02.02.07.17 Mark does not believe you]]
+	- 001.05.01.01
 	- The Battling Ships
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 - Story Ideas
