@@ -87,7 +87,7 @@
 			- [[001.04.02.01 Clover get boarded]]
 	- [[001.05 Prologue The Open Sea Caught]]
 		- [[001.05.01 The Enemy Ship]]
-			- [[001.05.01.01 The enemy Ship Prison Cell]]
+			- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]]
 			  collapsed:: true
 				- [[001.05.01.01.01 Lost the battle Thief petpal]]
 					- [[001.05.01.01.01.01 Pers+Int 7]]
@@ -107,7 +107,7 @@
 					- [[001.05.01.01.08.01 Pers+Int 7]]
 				- [[001.05.01.01.09 Lost the battle Django dead]]
 					- [[001.05.01.01.09.01 Pers+Int 7]]
-			- [[001.05.01.02 The enemy Ship The Doctor's Laboratory]]
+			- [[001.05.01.02 The enemy Ship 1st Deck The Doctor's Laboratory]]
 				- [[001.05.01.02.01 Con 15]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
