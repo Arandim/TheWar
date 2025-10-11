@@ -105,6 +105,10 @@
 - LOOSESTATUS
 	- Character LOOSESTATUS
 		- hashtagstatus
+- MOVE CHARACTER
+	- MOVE CHARACTER
+		- This Character TO
+			- This Loacation
 - **REWARD**
 	- REWARD
 		- Charactername [001.01.06.RunningnumberforRewardssamenumberforsamepermutaionofReward This Item]
