@@ -73,7 +73,6 @@
 	- IF This is true/false THEN
 		- This happens
 - IN ROOM
-  collapsed:: true
 	- This Level IN ROOM
 		- This Room
 - IN LEVEL
