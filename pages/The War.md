@@ -7,7 +7,6 @@
 	- [[001.02.02.07.13 Mark does not believe you]]
 	- [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- [[001.02.02.07.17 Mark does not believe you]]
-	- [[001.03.01.01 Board the Enemy ship]] Make the correct commands for the players to sort their belonging in the boxes and make the transfer items command to make the gm sort the items in the box where the players have easy access to. Same as in 001.04.01.01
 	- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape or if they want to re-enter the dialogue
 	- The Battling Ships
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
