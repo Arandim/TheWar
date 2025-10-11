@@ -9,9 +9,10 @@
 	- [[001.02.02.07.17 Mark does not believe you]]
 	- [[001.03.01.01 Board the Enemy ship]] Make the same as in 001.04.01.01
 	- [[001.04.01.01 Prepare the battlefield]] Make the correct commands for the players to sort their belonging in the boxes and make the transfer items command to make the gm sort the items in the box where the players have easy access to.
-	- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape
+	- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape or if they want to re-enter the dialogue
 	- The Battling Ships
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
+	- Intoxication from the Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
 - Story Ideas
   collapsed:: true
 	- CHECK Write a new story path for Akshan Vignettes 07 and 09 when the Player has made a deal with Mark and got the items and decides to just give them to Akshan.
