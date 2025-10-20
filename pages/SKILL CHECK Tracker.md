@@ -120,7 +120,7 @@
 			- [[001.05.01.04 The enemy Ship 1st Deck Breeding Chamber]]
 				- [[001.05.01.04.02 SNEAKING 1 (Prerequisite) + Dex 6]]
 					- [[001.05.01.04.01 Approaching Wuffy]]
-						- [[001.05.01.04.01.01 SNEAKING 1 (Prerequisite) + Dex 8]]
+						- [[001.05.01.04.01.01 SNEAKING 1 (Prerequisite) + Dex 12]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.02.01.01 Missing Celebrations Success]]
