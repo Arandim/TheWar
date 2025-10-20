@@ -109,6 +109,8 @@
 					- [[001.05.01.01.09.01 Pers+Int 7]]
 			- [[001.05.01.02 The enemy Ship 1st Deck The Doctor's Laboratory]]
 				- [[001.05.01.02.01 Con 15]]
+			- [[001.05.01.03 The enemy Ship 1st Deck The Doctor's Test Chamber]]
+			- [[001.05.01.04.02 SNEAKING 1 (Prerequisite) + Dex 6]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.02.01.01 Missing Celebrations Success]]
