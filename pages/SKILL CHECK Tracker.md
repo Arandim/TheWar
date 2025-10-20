@@ -110,7 +110,7 @@
 			- [[001.05.01.02 The enemy Ship 1st Deck The Doctor's Laboratory]]
 				- [[001.05.01.02.01 Con 15]]
 					- [[001.05.01.02.01 The Doctor's Laboratory intoxicated]]
-					- [[001.05.01.02.01 The Doctor's Laboratory not intoxicated]]
+					- [[001.05.01.02.02 The Doctor's Laboratory not intoxicated]]
 			- [[001.05.01.03 The enemy Ship 1st Deck The Doctor's Test Chamber]]
 				- [[001.05.01.03.01 One Bug joins the fight]]
 				- [[001.05.01.03.02 Two Bugs join the fight]]
