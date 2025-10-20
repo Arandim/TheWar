@@ -126,6 +126,7 @@
 					- [[001.05.01.04.03 Approaching Mr. Rooster]]
 						- [[001.05.01.04.03.01 SNEAKING 1 (Prerequisite) + Dex 10]]
 					- [[001.05.01.04.04 Approaching Mr. Shuhu]]
+						- [[001.05.01.04.04.01 SNEAKING 1 (Prerequisite) + Dex 8]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.02.01.01 Missing Celebrations Success]]
