@@ -72,6 +72,10 @@
   collapsed:: true
 	- IF This is true/false THEN
 		- This happens
+- IGNORE
+	- IGNORE
+		- This (e.G. Sticky)
+			- Specific Thing
 - IN ROOM
 	- This Level IN ROOM
 		- This Room
