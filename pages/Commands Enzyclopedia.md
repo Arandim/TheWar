@@ -73,9 +73,10 @@
 	- IF This is true/false THEN
 		- This happens
 - IGNORE
-	- IGNORE
+  collapsed:: true
+	- IGNORE (Don't read)
 		- This (e.G. Sticky)
-			- Specific Thing
+			- Specific Thing (001.05.01.03 This Vignette)
 - IN ROOM
 	- This Level IN ROOM
 		- This Room
