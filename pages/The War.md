@@ -4,10 +4,10 @@
 - Player Quest Journal Entries have to be rewritten. Their two digit ending number has to increase incrementally by 1 independet from the Gm Journal. This has to increase seperatly inside of each Zone/Character Entry.
 	- And rewrite a lot of descriptions on these Journal Entries
 - Loose ends where you have to continue the story
-	- [[001.02.02.07.13 Mark does not believe you]]
-	- [[001.02.02.07.15 Could not steal back the items form Akshan]]
-	- [[001.02.02.07.17 Mark does not believe you]]
-	- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape and the storm hits the ship and source spills and blobs form
+	- CHECK [[001.02.02.07.13 Mark does not believe you]]
+	- CHECK [[001.02.02.07.15 Could not steal back the items form Akshan]]
+	- CHECK [[001.02.02.07.17 Mark does not believe you]]
+	- CHECK [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape and the storm hits the ship and source spills and blobs form
 	- The Battling Ships
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
