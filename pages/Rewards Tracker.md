@@ -20,6 +20,7 @@
 		- [[001.01.02 Characters and Dialogue]]
 			- [[001.01.02.01.Wuffy]]
 				- [[001.01.06.01 Poison Wuffy 60XP]]
+				- [[001.01.06.02 Feeding Wuffy 80XP]]
 			- [[001.01.02.02 Mr. Shuhu]]
 			- [[001.01.02.03 Rats (Django)]]
 			- [[001.01.02.04 Mara]]
