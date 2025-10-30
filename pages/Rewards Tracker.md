@@ -79,7 +79,6 @@
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.06.01 Pierre takes a nap 50XP]]
-				-
 	- [[001.06 Prologue The Enemy Ship Lower Decks]]
 		- [[001.06.01 The Enemy Ship Lower Decks]]
 		- 001.06.02 Characters and Dialogue
