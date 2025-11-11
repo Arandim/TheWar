@@ -23,3 +23,4 @@
 		- [[001.05.03.05 The Pets]]
 		- [[001.05.03.06 The Meat-Lizards]]
 		- [[001.05.03.07 The Crew]]
+		- [[001.05.03.08 Meat-Lizards and Undead surprise]]
