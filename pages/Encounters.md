@@ -26,3 +26,5 @@
 		- [[001.05.03.08 Meat-Lizards and Undead surprise]]
 		- [[001.05.03.09 Meat-Lizards vs Magisters]]
 		- [[001.05.03.10 Meat-Lizards and Undead Magisters]]
+		- [[001.05.03.11 Akshan]]
+		- [[001.05.03.12 Magisters in the Stern Room]]
