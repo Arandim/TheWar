@@ -133,7 +133,7 @@
 				- [[001.05.01.06.02 The enemy Ship 2nd deck Meatbugs did not escape]]
 			- [[001.05.01.07 The enemy Ship 2nd Deck Staircase to 3rd Deck]]
 			- [[001.05.01.08 The enemy Ship 3rd Deck The Stern Room]]
-				-
+				- [[001.05.01.08.02 Pers+Cha 16]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.02.01.01 Missing Celebrations Success]]
