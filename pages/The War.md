@@ -12,7 +12,7 @@
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
 	- Mr. Crabs has to be re-introduced once the players reach the Golden Island
-	- Set a timer for Akshans release once you are in the capital and his trial is completed
+	- Set a timer for Akshans release once you are in the capital and his trial is completed and reward the players for the arrest
 - Story Ideas
 	- CHECK Write a new story path for Akshan Vignettes 07 and 09 when the Player has made a deal with Mark and got the items and decides to just give them to Akshan.
 		- CHECK Mark has to come and talk to the Player and has to arrest him.
