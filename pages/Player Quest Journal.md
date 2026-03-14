@@ -32,4 +32,16 @@
 			- [[001.02.02.08 Shaun the Sheep Quest Journal]]
 			- [[001.02.02.09 The Crabs Quest Journal]]
 			- [[001.02.02.10 Shaunella Quest Journal]]
-				-
+	- [[001.03 Prologue The Open Sea Board]]
+		- [[001.03.01 Battling Ships board]]
+		- [[001.03.02 Characters and Dialogue]]
+	- [[001.04 Prologue The Open Sea Boarded]]
+		- [[001.04.01 Battling Ships boarded]]
+		- [[001.04.02 Characters and Dialogue]]
+	- [[001.05 Prologue The Open Sea Caught]]
+		- [[001.05.01 The Enemy Ship]]
+		- [[001.05.02 Characters and Dialogue]]
+			- [[001.05.02.02 Akshan Quest Journal]]
+	- [[001.06 Prologue The Enemy Ship Lower Decks]]
+		- [[001.06.01 The Enemy Ship Lower Decks]]
+		- 001.06.02 Characters and Dialogue
