@@ -9,6 +9,7 @@
 	- [[A.00008. Source]]
 	- [[A.00009. Third Legion]]
 	- [[A.00010. Lord Mandir]]
+	- [[A.00011. Animal Experimentation]]
 - [[001 Prologue]]
 	- [[001.01 Prologue Lower Deck]]
 		- [[001.01.01 Rooms Lower Deck Quest Journal]]
