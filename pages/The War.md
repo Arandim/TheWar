@@ -8,7 +8,7 @@
 	- CHECK [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- CHECK [[001.02.02.07.17 Mark does not believe you]]
 	- CHECK [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape and the storm hits the ship and source spills and blobs form
-	- The Battling Ships
+	- Continue on the
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
 	- Mr. Crabs has to be re-introduced once the players reach the Golden Island
