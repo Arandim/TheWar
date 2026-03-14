@@ -1,4 +1,2 @@
-- [[001.06.01.02.A.00008.02 Source Found]]
-	- [[Source: You found a strange fluid on the enemy ship and decided to bottle it inside a vial to show it to headquarters when the time comes.]]
 - [[001.05.01.02.A.00011.01 Found the research papers]]
 	- [[Animal Experimentation: You have found the research papers of Dimitry, a scientist of the Research Division. His notes indicate that the enemy is trying to manipulate the mutation of meatbugs and other creatures, potentially even humans, in order to make them better suited for combat.]]
