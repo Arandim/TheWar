@@ -49,3 +49,6 @@
 	- [[001.06 Prologue The Enemy Ship Lower Decks GM Journal]]
 		- [[001.06.01 The Enemy Ship Lower Decks GM Journal]]
 		- 001.06.02 Characters and Dialogue GM Journal
+- [[002 Northern Rivellon]]
+	- [[002.01 The Capital]]
+	- [[002.02 Golden Island]]
