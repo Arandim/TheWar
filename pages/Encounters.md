@@ -28,4 +28,5 @@
 		- [[001.05.03.10 Meat-Lizards and Undead Magisters]]
 		- [[001.05.03.11 Akshan]]
 		- [[001.05.03.12 Magisters in the Stern Room]]
-		- 001.05.03.13 Meat-Lizards and Undead Magisters on the 3rd Main Deck
+		- [[001.05.03.13 Meat-Lizards and Undead Magisters on the 3rd Main Deck]]
+		- [[001.05.03.14 Undead Clover]]

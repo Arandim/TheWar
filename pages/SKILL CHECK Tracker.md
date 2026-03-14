@@ -136,7 +136,7 @@
 				- [[001.05.01.08.02 Pers+Cha 16]]
 			- [[001.05.01.09 The enemy Ship 3rd Deck Undead Clovers' Room]]
 				- [[001.05.01.09.01 The Skull Marked Door in possession of the Skull-Marked Key]]
-					- [[001.05.01.09.01.01 SNEAKING 1 (Prerequisite) + Dex 10]]
+					- [[001.05.01.09.01.01 SNEAKING 1 (Prerequisite) + Dex 7]]
 				- [[001.05.01.09.02 The Skull Marked Door NOT in possession of the Skull-Marked Key]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
