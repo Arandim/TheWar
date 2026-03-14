@@ -142,6 +142,8 @@
 				- [[001.05.01.09.03 Try to sneak into Clovers' room]]
 					- [[001.05.01.09.03.01 Dex Group Check 10]]
 				- [[001.05.01.09.04 Don't try to sneak into Clovers' room]]
+			- [[001.05.01.10 The enemy Ship 3rd Deck Staircase to 4th Deck]]
+				-
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.02.01.01 Missing Celebrations Success]]
