@@ -8,12 +8,17 @@
 	- CHECK [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- CHECK [[001.02.02.07.17 Mark does not believe you]]
 	- CHECK [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape and the storm hits the ship and source spills and blobs form
-	- Continue on the
+	- Continue on the Vignettes
+		- [[001.05.01.11.04 Magister alive]]
+		- [[001.05.01.11.05 All Magisters dead]]
+		- [[001.06.01.06 To the capital]]
+		- [[001.06.01.07 A short stop at Golden Island]]
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
 	- Mr. Crabs has to be re-introduced once the players reach the Golden Island
 	- Set a timer for Akshans release once you are in the capital and his trial is completed and reward the players for the arrest
 	- Implement the time System and advance the timeline one day when you switch levels to the fight or the incarceration of the players
+	- Advance the Timeline by one week when the players arrive at golden Island and by two weeks when they arrive at the capital
 - Story Ideas
 	- CHECK Write a new story path for Akshan Vignettes 07 and 09 when the Player has made a deal with Mark and got the items and decides to just give them to Akshan.
 		- CHECK Mark has to come and talk to the Player and has to arrest him.
@@ -31,10 +36,7 @@
 					- There will be a hearing where you have to go through what you did exactely and akshan will be present as well
 					- depending on how it goes you will have to pay for the stolen items
 				- If you dont free Mark he dies and you will not be trialed for theft
-		- the Kraken attacks the ship and it is going down.
-		- Clover may survive that and then
-		  collapsed:: true
-			- he will join the pirates at golden island
+		- CHECK the Kraken attacks the ship and it is going down.
 - [[Playthrough-TEMPLATE]]
 - [[Playthrough-YOURPLAYTHROUGHSUFFIX]]
 - [[Root Template]]
