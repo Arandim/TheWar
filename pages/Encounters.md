@@ -30,3 +30,5 @@
 		- [[001.05.03.12 Magisters in the Stern Room]]
 		- [[001.05.03.13 Meat-Lizards and Undead Magisters on the 3rd Main Deck]]
 		- [[001.05.03.14 Undead Clover]]
+		- [[001.05.03.15 Top Deck Encounter]]
+		- [[001.05.03.16 Top Deck Frightened Magisters]]
