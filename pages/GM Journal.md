@@ -45,6 +45,7 @@
 		- [[001.05.01 The Enemy Ship GM Journal]]
 		- [[001.05.02 Characters and Dialogue GM Journal]]
 			- [[001.05.02.01 Pierre GM Journal]]
+			- [[001.05.02.02 Akshan GM Journal]]
 	- [[001.06 Prologue The Enemy Ship Lower Decks GM Journal]]
 		- [[001.06.01 The Enemy Ship Lower Decks GM Journal]]
 		- 001.06.02 Characters and Dialogue GM Journal
