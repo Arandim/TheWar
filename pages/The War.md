@@ -13,7 +13,7 @@
 		- [[001.05.01.11.05 All Magisters dead]]
 		- [[001.06.01.06 To the capital]]
 		- [[001.06.01.07 A short stop at Golden Island]]
-	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island. TES
+	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
 	  collapsed:: true
 	- Mr. Crabs has to be re-introduced once the players reach the Golden Island
