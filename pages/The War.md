@@ -4,6 +4,7 @@
 - Player Quest Journal Entries have to be rewritten. Their two digit ending number has to increase incrementally by 1 independet from the Gm Journal. This has to increase seperatly inside of each Zone/Character Entry.
 	- And rewrite a lot of descriptions on these Journal Entries
 - Loose ends where you have to continue the story
+  collapsed:: true
 	- CHECK [[001.02.02.07.13 Mark does not believe you]]
 	- CHECK [[001.02.02.07.15 Could not steal back the items form Akshan]]
 	- CHECK [[001.02.02.07.17 Mark does not believe you]]
@@ -15,12 +16,12 @@
 		- [[001.06.01.07 A short stop at Golden Island]]
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
 	- Intoxication from Dimitrys' Laboratory needs to be removed once you reach the Golden Island or The Capital
-	  collapsed:: true
 	- Mr. Crabs has to be re-introduced once the players reach the Golden Island
 	- Set a timer for Akshans release once you are in the capital and his trial is completed and reward the players for the arrest
 	- Implement the time System and advance the timeline one day when you switch levels to the fight or the incarceration of the players
 	- Advance the Timeline by one week when the players arrive at golden Island and by two weeks when they arrive at the capital
 - Story Ideas
+  collapsed:: true
 	- CHECK Write a new story path for Akshan Vignettes 07 and 09 when the Player has made a deal with Mark and got the items and decides to just give them to Akshan.
 		- CHECK Mark has to come and talk to the Player and has to arrest him.
 		  collapsed:: true
