@@ -3,7 +3,7 @@
 - [[001.02.02.07.A.00007.01 The Thief]]
 	- [[The Thief: You decided to tell Mark about Akshans true intentions on board the ship. He is a thief that should be punished.]]
 - [[001.02.02.07.A.00007.03 The Thief]]
-	- [[The Thief: You agreed to steal some items for Akshan. He wants Dwori's Malachite Copper Ring, Sara's Sapphire Necklace, John's Beryl Ring and Mark's Belt.]]
+	- [[The Thief: You agreed to steal some items for Akshan. He wants Dwori's Malachite Copper Ring, Sara's Sapphire Necklace, John's Beryl Ring and Mark's Leather Belt.]]
 - [[001.02.02.07.A.00007.04 The Thief]]
 	- [[The Thief: Akshan took the bait and fell right into your trap. Mark imprisoned him on the lower deck.]]
 - [[001.02.02.07.A.00007.05 Mark believes the items are gone]]
