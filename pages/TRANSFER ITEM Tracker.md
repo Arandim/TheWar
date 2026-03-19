@@ -20,7 +20,7 @@
 		- [[001.01.02 Characters and Dialogue]]
 			- [[001.01.02.01.Wuffy]]
 			- [[001.01.02.02 Mr. Shuhu]]
-				- [[001.01.05.01 Mr. Shuhus Feather]]
+				- [[001.01.05.01 Mr. Shuhu's Feather]]
 				- [[001.01.05.01 Fire Essence]]
 			- [[001.01.02.03 Rats (Django)]]
 			- [[001.01.02.04 Mara]]
