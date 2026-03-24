@@ -1,6 +1,7 @@
 - [[Akshan]]
 - [[Clover]]
 - [[Daisy]]
+- [[Dimitry]]
 - [[Django]]
 - [[Dwori]]
 - [[Eva]]
