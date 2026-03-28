@@ -22,6 +22,7 @@
 				- [[001.01.02.03.A.01 Armistice rats agreed]]
 				- [[001.01.02.02.A.05 The Rats join]]
 			- [[001.01.02.04 Mara GM Journal-TestPlaythrough01]]
+				- [[001.01.01.13.A.01 Purpose of Water Essence]]
 			- [[001.01.02.05 Scarlett GM Journal-TestPlaythrough01]]
 			- [[001.01.02.06 Eva GM Journal-TestPlaythrough01]]
 			- [[001.01.02.07 The Undead GM Journal-TestPlaythrough01]]
