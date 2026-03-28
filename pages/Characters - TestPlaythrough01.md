@@ -30,5 +30,5 @@
 - [[Player02 Lohse-TestPlaythrough01]]
 - [[Player03 The Red Prince-TestPlaythrough01]]
 - [[Player04 Ifan-TestPlaythrough01]]
-- Player05 Sebille-TestPlaythrough01
-- Player06 Beast-TestPlaythrough01
+- [[Player05 Sebille-TestPlaythrough01]]
+- [[Player06 Beast-TestPlaythrough01]]
