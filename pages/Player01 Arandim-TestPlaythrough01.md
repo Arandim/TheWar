@@ -6,6 +6,7 @@
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 0 Modifier: 0
 	- Bartering and Stewardship: 0 Modifier: 0
+	- Pathfinding and Beastmaster: 0 Modifier: 0
 - DnD Stats
 	- Strength: 15 Modifier: +2
 	- Dexterity: 8 Modifier: -1

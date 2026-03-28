@@ -1,15 +1,16 @@
 - Tag: Hero
 - Party Roles
-	- Persuasion: 2 Modifier: +1
+	- Persuasion: 0 Modifier: 0
 	- Loremaster and Soldier: 0 Modifier: 0
 	- Thievery: 0 Modifier: 0
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 0 Modifier: 0
-	- Bartering and Stewardship: 2 Modifier: +1
+	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4
+	- Pathfinding and Beastmaster: 0 Modifier: 0
 - DnD Stats
-	- Strength: 15 Modifier: +2
+	- Strength: 8 Modifier: -1
 	- Dexterity: 8 Modifier: -1
-	- Intelligence: 8 Modifier: -1
-	- Constitution: 15 Modifier: +2
-	- Charisma: 8 Modifier: -1
+	- Intelligence: 15 Modifier: +2
+	- Constitution: 8 Modifier: -1
+	- Charisma: 15 Modifier: +2
 	- Wisdom: 15 Modifier: +2

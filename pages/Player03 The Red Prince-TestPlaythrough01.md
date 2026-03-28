@@ -6,6 +6,7 @@
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 2 Modifier(1to1): +2 Modifier With DnD Stat (Str/Con): +4
 	- Bartering and Stewardship: 0 Modifier: 0
+	- Pathfinding and Beastmaster: 0 Modifier: 0
 - DnD Stats
 	- Strength: 15 Modifier: +2
 	- Dexterity: 15 Modifier: +2
