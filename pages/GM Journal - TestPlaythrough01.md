@@ -40,6 +40,7 @@
 				- [[001.02.02.07.A.01 Akshan is a thief]]
 			- [[001.02.02.08 Shaun the Sheep GM Journal-TestPlaythrough01]]
 			- [[001.02.02.09 The Crabs GM Journal-TestPlaythrough01]]
+				- [[001.02.02.09.A.01 Deal with the Crabs]]
 			- [[001.02.02.10 Shaunella GM Journal-TestPlaythrough01]]
 	- [[001.03 Prologue The Open Sea Board GM Journal-TestPlaythrough01]]
 		- [[001.03.01 Battling Ships board GM Journal-TestPlaythrough01]]
