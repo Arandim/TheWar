@@ -9,8 +9,10 @@
 - Tag: Villain
 - Party Roles
 	- Persuasion: 2 Modifier: +1
-		-
-	- Loremaster and Soldier: 0 Modifier: 0
+		- The modifier of the invested Civil Ability Points is added to the modifier of the DnD Stat required in the Skill Check
+		- Strength, Constiutution and Wisdom are generally leaining towards morally positive choices
+		- Charisma, Intelligence and Dexterity are generally leaning towards morally negative choices
+	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier: +3
 	- Thievery: 0 Modifier: 0
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 0 Modifier: 0
