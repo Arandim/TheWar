@@ -1,15 +1,15 @@
 - Tag: Mystic
 - Party Roles
-	- Persuasion:
+	- Persuasion: 2 Modifier: +1
 	- Loremaster and Soldier:
 	- Thievery:
 	- Sneaking:
 	- Crafting:
 	- Bartering and Stewardship:
 - DnD Stats
-	- Strength:
-	- Intelligence:
-	- Charisma:
-	- Wisdom:
-	- Dexterity:
-	- Constitution:
+	- Strength: 15 Modifier: +2
+	- Dexterity: 8 Modifier: -1
+	- Intelligence: 8 Modifier: -1
+	- Constitution: 15 Modifier: +2
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 15 Modifier: +2
