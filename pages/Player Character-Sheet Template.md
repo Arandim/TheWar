@@ -17,10 +17,15 @@
 		- The Soldier Modifier consists of the Loremaster Modifier and either your Intelligence or Wisdom Modifier
 	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2
 		- The Thievery Modifier is the modifier of your Invested Civil Ability Points
-		- To determine your Modifier with DnD Stat, you add your Wisdom or Charisma mod
-	- Sneaking: 0 Modifier: 0
+		- To determine your Modifier with DnD Stat, you add half of your Wisdom or Charisma modifier (rounded down) to your Thievery Modifier
+		- The Modifier with DnD Stat is the value that represents your Thievery Skill Ingame
+	- Sneaking: 0 Sneaking Modifier: 0 Modifier with DnD Stat: +1
+		- The Sneaking Modifier is the modifier of your Invested Civil Ability Points
+		- To determine your Modifier with DnD Stat, you add half of your Dexterity or Strength modifier (rounded down) to your Sneaking Modifier
+		- The Modifier with DnD Stat is the value that represents your Sneaking Skill Ingame
 	- Crafting: 0 Modifier: 0
-	- Bartering and Stewardship: 0 Modifier: 0
+	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4
+		- The Bartering Skill
 	- Pathfinding and Beastmaster: 0 Modifier: 0
 - DnD Stats
 	- Strength: 15 Modifier: +2
