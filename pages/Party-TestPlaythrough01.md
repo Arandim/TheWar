@@ -43,3 +43,6 @@
 	- Wisdom: 15 Modifier: +2
 - Status Effects
 	- #seasick
+- Inspiration
+	- Players: 0
+	- GM: 1
