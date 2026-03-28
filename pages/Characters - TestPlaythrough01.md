@@ -26,4 +26,9 @@
 - [[Theodorus-TestPlaythrough01]]
 - [[The King of Crabs-TestPlaythrough01]]
 - [[Wuffy-TestPlaythrough01]]
--
+- [[Player01 Arandim-TestPlaythrough01]]
+- Player02 Arandim-TestPlaythrough01
+- Player03 Arandim-TestPlaythrough01
+- Player04 Arandim-TestPlaythrough01
+- Player05 Arandim-TestPlaythrough01
+- Player06 Arandim-TestPlaythrough01
