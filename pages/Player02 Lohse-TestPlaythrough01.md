@@ -1,1 +1,15 @@
 - Tag: Scholar
+- Party Roles
+	- Persuasion: 0 Modifier: 0
+	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier
+	- Thievery: 0 Modifier: 0
+	- Sneaking: 0 Modifier: 0
+	- Crafting: 0 Modifier: 0
+	- Bartering and Stewardship: 0 Modifier: 0
+- DnD Stats
+	- Strength: 8 Modifier: -1
+	- Dexterity: 8 Modifier: -1
+	- Intelligence: 15 Modifier: +2
+	- Constitution: 8 Modifier: -1
+	- Charisma: 15 Modifier: +2
+	- Wisdom: 15 Modifier: +2
