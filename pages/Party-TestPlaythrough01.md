@@ -42,7 +42,7 @@
 	- Charisma: 15 Modifier: +2
 	- Wisdom: 15 Modifier: +2
 - Status Effects
-	- #seasick
+	-
 - Inspiration
 	- Players: 3
 	- GM: 1
