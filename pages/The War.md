@@ -41,6 +41,7 @@
 		- CHECK the Kraken attacks the ship and it is going down.
 - [[Playthrough-TEMPLATE]]
 - [[Playthrough-YOURPLAYTHROUGHSUFFIX]]
+- [[Playthrough-TestPlaythrough01]]
 - [[Root Template]]
 	- [[Enzyclopedia]]
 	- [[GM Journal]]

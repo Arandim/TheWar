@@ -1,0 +1,54 @@
+- Statuses
+	- Everything that is essential to the Story must be edited in the [[Enzyclopedia-TestPlaythrough01]]. These essential characters, objects, etc.  are marked ingame. Their Nametags are set in []. E.g. [CHARACTERNAME] and can be queried from vignettes. Statuses that are written in **Bold** must be tracked outside of Vignettes and on basis of the world state.
+	- Status inheritable by Players
+		- Beestings: #beestings
+		- Beestings Hardcore: #beestingshardcore
+		- Facekicked: #facekicked
+		- Hungry: #hungry
+		- Intoxicated: #intoxicated
+		- Pet Pal: #petpal
+		- Seasick: #seasick
+	- Status inheritable by NPCs
+		- **Dead**: #dead
+- [[001 Prologue-TestPlaythrough01]]
+	- [[001.01 Prologue Lower Deck GM Journal-TestPlaythrough01]]
+		- [[001.01.01 Rooms Lower Deck GM Journal-TestPlaythrough01]]
+		- [[001.01.02 Characters Lower Deck GM Journal-TestPlaythrough01]]
+			- [[001.01.02.01.Wuffy GM Journal-TestPlaythrough01]]
+			- [[001.01.02.02 Mr. Shuhu GM Journal-TestPlaythrough01]]
+			- [[001.01.02.03 Rats (Django) GM Journal-TestPlaythrough01]]
+			- [[001.01.02.04 Mara GM Journal-TestPlaythrough01]]
+			- [[001.01.02.05 Scarlett GM Journal-TestPlaythrough01]]
+			- [[001.01.02.06 Eva GM Journal-TestPlaythrough01]]
+			- [[001.01.02.07 The Undead GM Journal-TestPlaythrough01]]
+	- [[001.02 Prologue Upper Deck GM Journal-TestPlaythrough01]]
+		- [[001.02.01 Rooms Upper Deck GM Journal-TestPlaythrough01]]
+		- [[001.02.02 Characters Upper Deck GM Journal-TestPlaythrough01]]
+			- [[001.02.02.01 Mark GM Journal-TestPlaythrough01]]
+			- [[001.02.02.02 Mr. Rooster GM Journal-TestPlaythrough01]]
+			- [[001.02.02.03 Sara GM Journal-TestPlaythrough01]]
+			- [[001.02.02.04 John GM Journal-TestPlaythrough01]]
+			- [[001.02.02.05 Dwori GM Journal-TestPlaythrough01]]
+			- [[001.02.02.06 Mr. Crabs GM Journal-TestPlaythrough01]]
+			- [[001.02.02.07 Akshan GM Journal-TestPlaythrough01]]
+			- [[001.02.02.08 Shaun the Sheep GM Journal-TestPlaythrough01]]
+			- [[001.02.02.09 The Crabs GM Journal-TestPlaythrough01]]
+			- [[001.02.02.10 Shaunella GM Journal-TestPlaythrough01]]
+	- [[001.03 Prologue The Open Sea Board GM Journal-TestPlaythrough01]]
+		- [[001.03.01 Battling Ships board GM Journal-TestPlaythrough01]]
+		- [[001.03.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
+			- [[001.03.02.01 Clover GM Journal-TestPlaythrough01]]
+	- [[001.04 Prologue The Open Sea Boarded GM Journal-TestPlaythrough01]]
+		- [[001.04.01 Battling Ships boarded GM Journal-TestPlaythrough01]]
+		- [[001.04.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
+	- [[001.05 Prologue The Open Sea Caught GM Journal-TestPlaythrough01]]
+		- [[001.05.01 The Enemy Ship GM Journal-TestPlaythrough01]]
+		- [[001.05.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
+			- [[001.05.02.01 Pierre GM Journal-TestPlaythrough01]]
+			- [[001.05.02.02 Akshan GM Journal-TestPlaythrough01]]
+	- [[001.06 Prologue The Enemy Ship Lower Decks GM Journal-TestPlaythrough01]]
+		- [[001.06.01 The Enemy Ship Lower Decks GM Journal-TestPlaythrough01]]
+		- 001.06.02 Characters and Dialogue GM Journal
+- [[002 Northern Rivellon-TestPlaythrough01]]
+	- [[002.01 The Capital-TestPlaythrough01]]
+	- [[002.02 Golden Island-TestPlaythrough01]]
