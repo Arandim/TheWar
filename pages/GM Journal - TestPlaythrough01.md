@@ -13,6 +13,7 @@
 - [[001 Prologue-TestPlaythrough01]]
 	- [[001.01 Prologue Lower Deck GM Journal-TestPlaythrough01]]
 		- [[001.01.01 Rooms Lower Deck GM Journal-TestPlaythrough01]]
+			- [[001.01.02.01.A.01 Talked to Wuffy]]
 		- [[001.01.02 Characters Lower Deck GM Journal-TestPlaythrough01]]
 			- [[001.01.02.01.Wuffy GM Journal-TestPlaythrough01]]
 			- [[001.01.02.02 Mr. Shuhu GM Journal-TestPlaythrough01]]
