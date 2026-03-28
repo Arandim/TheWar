@@ -27,6 +27,8 @@
 					- [[Everybody hates the rats: Mark asked you to deal with the rats. He does not care how you do it. He does not want any trouble with rats on board his ship.]]
 				- [[001.02.02.01.A.00005.08 Exterminator]]
 					- [[Exterminator: Mark suggests to deal with the bees with a poison cloud grenade. Normally John takes care of the bees but at the moment he is ill. Maybe he can provide the grenades at least.]]
+				- [[001.02.02.01.A.00006.10 Prepare yourself]]
+					- [[Prepare yourself: Mark has spotted an enemy ship pursuing ours. At the moment the crew including yourself are not ready to fight. You must prepare yourself as best as possible for the upcoming fight. Mark gave you the key to his room which contains a chest with a handbook on how to survive behind enemy lines. Report back to Mark when you feel ready to fight and to discuss battle tactics.]]
 			- [[001.01.02.04 Mara Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.05 Scarlett Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.06 Eva Quest Journal-TestPlaythrough01]]
