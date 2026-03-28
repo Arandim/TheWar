@@ -1,0 +1,2 @@
+- [[001.01.02.01.A.00002.01 Wuffy is hungry]]
+	- [[Wuffys meal: Wuffy is locked in the stern room of the lower deck and is very hungry. In order to feed him you have to open the door somehow.]]

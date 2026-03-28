@@ -13,6 +13,8 @@
 - [[001 Prologue-TestPlaythrough01]]
 	- [[001.01 Prologue Lower Deck-TestPlaythrough01]]
 		- [[001.01.01 Rooms Lower Deck Quest Journal-TestPlaythrough01]]
+			- [[001.01.02.01.A.00002.01 Wuffy is hungry]]
+				- [[Wuffys meal: Wuffy is locked in the stern room of the lower deck and is very hungry. In order to feed him you have to open the door somehow.]]
 		- [[001.01.02 Characters and Dialogue Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.01.Wuffy Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.02 Mr. Shuhu Quest Journal-TestPlaythrough01]]
