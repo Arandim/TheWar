@@ -13,7 +13,11 @@
 		- Strength, Constiutution and Wisdom are generally leaining towards morally positive choices
 		- Charisma, Intelligence and Dexterity are generally leaning towards morally negative choices
 	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier: +3
-	- Thievery: 0 Modifier: 0
+		- The Loremaster Modifier is the modifier of your Invested Civil Ability Points
+		- The Soldier Modifier consists of the Loremaster Modifier and either your Intelligence or Wisdom Modifier
+	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2
+		- The Thievery Modifier is the modifier of your Invested Civil Ability Points
+		- To determine your Modifier with DnD Stat, you add your Wisdom or Charisma mod
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 0 Modifier: 0
 	- Bartering and Stewardship: 0 Modifier: 0
