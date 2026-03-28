@@ -1,3 +1,3 @@
 - [[Characters - TestPlaythrough01]]
 - [[GM Journal - TestPlaythrough01]]
-- Play
+- [[Player Quest Journal - TestPlaythrough01]]
