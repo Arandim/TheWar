@@ -14,12 +14,12 @@
 	  collapsed:: true
 		- The Loremaster Modifier is the modifier of your Invested Civil Ability Points
 		- The Soldier Modifier consists of the Loremaster Modifier and either your Intelligence or Wisdom Modifier
-	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2
+	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2 Beast
 	  collapsed:: true
 		- The Thievery Modifier is the modifier of your Invested Civil Ability Points
 		- To determine your Modifier with DnD Stat, you add half of your Wisdom or Charisma modifier (rounded down) to your Thievery Modifier
 		- The Modifier with DnD Stat is the value that represents your Thievery Skill Ingame
-	- Sneaking: 0 Sneaking Modifier: 0 Modifier with DnD Stat: +1
+	- Sneaking: 0 Sneaking Modifier: 0 Modifier with DnD Stat: +1 Beast
 	  collapsed:: true
 		- The Sneaking Modifier is the modifier of your Invested Civil Ability Points
 		- To determine your Modifier with DnD Stat, you add half of your Dexterity or Strength modifier (rounded down) to your Sneaking Modifier
@@ -27,11 +27,11 @@
 	- Crafting: 2 Modifier: +2 Modifier With DnD Stat: +4 The Red Prince
 	  collapsed:: true
 		- The Crafting Modifier is determined by the amount of invested Civil Ability Points and your Strength or Constitution Modifier
-	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4
+	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4 Ifan
 	  collapsed:: true
 		- The Bartering Modifier is a direct representation of your invested Civil Ability Points and represents your Bartering Skill Ingame
 		- The Stewardship Modifier consists out of your Bartering Modifier and your Intelligence or Charisma Modifier
-	- Pathfinding and Beastmaster: 2 Modifier: +4
+	- Pathfinding and Beastmaster: 2 Modifier: +4 Sebille
 	  collapsed:: true
 		- The Pathfinding and Beastmaster Modifier is determined by the amount of invested Civil Ability Points and your Constitution or Wisdom Modifier
 - DnD Stats
