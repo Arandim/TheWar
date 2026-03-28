@@ -17,6 +17,8 @@
 				- [[Wuffys meal: Wuffy is locked in the stern room of the lower deck and is very hungry. In order to feed him you have to open the door somehow.]]
 		- [[001.01.02 Characters and Dialogue Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.01.Wuffy Quest Journal-TestPlaythrough01]]
+				- [[001.01.02.01.A.00002.06 Wuffys meal order]]
+					- [[Wuffys meal: Wuffy is very happy that Master Dwori is fine. He is also very hungry and therefore asked you to prepare him his meal. He wants A cup of tea. A giblet steak with a mug of water. A poultry steak with a cup of milk. A cup of wine with cheese for dessert. Exactly this and also in that order]]
 			- [[001.01.02.02 Mr. Shuhu Quest Journal-TestPlaythrough01]]
 				- [[001.01.02.02.A.00001.03 Mr. Shuhu can finally sleep]]
 					- [[The Mighty War Owl: You managed to find a solution for Mr. Shuhus sleeping issue. Report back to Mark.]]
