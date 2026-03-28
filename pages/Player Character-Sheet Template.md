@@ -25,8 +25,10 @@
 		- The Modifier with DnD Stat is the value that represents your Sneaking Skill Ingame
 	- Crafting: 0 Modifier: 0
 	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4
-		- The Bartering Skill
-	- Pathfinding and Beastmaster: 0 Modifier: 0
+		- The Bartering Modifier is a direct representation of your invested Civil Ability Points and represents your Bartering Skill Ingame
+		- The Stewardship Modifier consists out of your Bartering Modifier and your Intelligence or Charisma Modifier
+	- Pathfinding and Beastmaster: 2 Modifier: +4
+		- The Pathfinding and Beastmaster Modifier is determined by the amount of invested Civil Ability Points and
 - DnD Stats
 	- Strength: 15 Modifier: +2
 	- Dexterity: 8 Modifier: -1
