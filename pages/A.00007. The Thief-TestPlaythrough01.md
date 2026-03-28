@@ -1,0 +1,2 @@
+- [[001.02.02.07.A.00007.03 The Thief]]
+	- [[The Thief: You agreed to steal some items for Akshan. He wants Dwori's Malachite Copper Ring, Sara's Sapphire Necklace, John's Beryl Ring and Mark's Leather Belt.]]

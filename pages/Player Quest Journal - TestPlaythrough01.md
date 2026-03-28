@@ -50,6 +50,8 @@
 					- [[Wuffys meal: You agreed to feed Dworis dog Wuffy on the lower decks. The task appears to be more complicated than you thought because apparently Wuffy is quite the gourmet. You are to ask Wuffy what he wants to eat with the power of the magical ring that Dwori gave you.]]
 			- [[001.02.02.06 Mr. Crabs Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.07 Akshan Quest Journal-TestPlaythrough01]]
+				- [[001.02.02.07.A.00007.03 The Thief]]
+					- [[The Thief: You agreed to steal some items for Akshan. He wants Dwori's Malachite Copper Ring, Sara's Sapphire Necklace, John's Beryl Ring and Mark's Leather Belt.]]
 			- [[001.02.02.08 Shaun the Sheep Quest Journal-TestPlaythrough01]]
 				- [[001.02.02.08.A.00004.01 Everybody hates the rats]]
 					- [[Everybody hates the rats: Shaun the Sheep has asked you to help him to get rid of the rats. He promised you the milk of Shaunella and he will even allow you to clean his food stash in return.]]

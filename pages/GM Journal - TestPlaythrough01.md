@@ -37,6 +37,7 @@
 				- [[001.02.02.06.A.02 Diplomacy Mr. Crabs stays]]
 				- [[001.02.02.06.A.05 Know Mr. Crabs]]
 			- [[001.02.02.07 Akshan GM Journal-TestPlaythrough01]]
+				- [[001.02.02.07.A.01 Akshan is a thief]]
 			- [[001.02.02.08 Shaun the Sheep GM Journal-TestPlaythrough01]]
 			- [[001.02.02.09 The Crabs GM Journal-TestPlaythrough01]]
 			- [[001.02.02.10 Shaunella GM Journal-TestPlaythrough01]]
