@@ -1,2 +1,4 @@
 - [[001.01.02.03.A.00001.03 Rats disturb Mr. Shuhu]]
 	- [[The Mighty War Owl: The rats are the reason for the tired state Mr. Shuhu currently finds himself in.]]
+- [[001.02.02.01.A.00001.01 Investigate why Mr. Shuhu is so tired]]
+	- [[The Mighty War Owl: Mark asked you to investigate why his war owl Mr. Shuhu is so tired.]]
