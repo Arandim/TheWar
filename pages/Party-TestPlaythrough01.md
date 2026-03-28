@@ -44,5 +44,5 @@
 - Status Effects
 	-
 - Inspiration
-	- Players: 3
+	- Players: 4
 	- GM: 1
