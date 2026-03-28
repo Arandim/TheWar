@@ -29,6 +29,7 @@
 			- [[001.02.02.01 Mark GM Journal-TestPlaythrough01]]
 			- [[001.02.02.02 Mr. Rooster GM Journal-TestPlaythrough01]]
 			- [[001.02.02.03 Sara GM Journal-TestPlaythrough01]]
+				- [[001.02.02.03.A.02 Friendship with Sara]]
 			- [[001.02.02.04 John GM Journal-TestPlaythrough01]]
 			- [[001.02.02.05 Dwori GM Journal-TestPlaythrough01]]
 			- [[001.02.02.06 Mr. Crabs GM Journal-TestPlaythrough01]]
