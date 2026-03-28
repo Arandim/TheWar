@@ -43,6 +43,8 @@
 			- [[001.02.02.02 Mr. Rooster Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.03 Sara Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.04 John Quest Journal-TestPlaythrough01]]
+				- [[001.02.02.04.A.00005.01 Exterminator]]
+					- [[Exterminator: John gave you the recipe for the Poison Cloud Grenade. Now you can get rid of the bees like a professional without risking your health.]]
 			- [[001.02.02.05 Dwori Quest Journal-TestPlaythrough01]]
 				- [[001.02.02.05.A.00002.05 Wuffys meal]]
 					- [[Wuffys meal: You agreed to feed Dworis dog Wuffy on the lower decks. The task appears to be more complicated than you thought because apparently Wuffy is quite the gourmet. You are to ask Wuffy what he wants to eat with the power of the magical ring that Dwori gave you.]]
