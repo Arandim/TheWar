@@ -32,3 +32,4 @@
 - [[Player04 Ifan-TestPlaythrough01]]
 - [[Player05 Sebille-TestPlaythrough01]]
 - [[Player06 Beast-TestPlaythrough01]]
+- [[Party-TestPlaythrough01]]
