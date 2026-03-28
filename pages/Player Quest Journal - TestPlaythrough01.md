@@ -18,6 +18,8 @@
 		- [[001.01.02 Characters and Dialogue Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.01.Wuffy Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.02 Mr. Shuhu Quest Journal-TestPlaythrough01]]
+				- [[001.01.02.02.A.00001.03 Mr. Shuhu can finally sleep]]
+					- [[The Mighty War Owl: You managed to find a solution for Mr. Shuhus sleeping issue. Report back to Mark.]]
 			- [[001.01.02.03 Rats (Django) Quest Journal-TestPlaythrough01]]
 				- [[001.01.02.03.A.00001.03 Rats disturb Mr. Shuhu]]
 					- [[The Mighty War Owl: The rats are the reason for the tired state Mr. Shuhu currently finds himself in.]]

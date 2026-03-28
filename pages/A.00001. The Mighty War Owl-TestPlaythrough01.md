@@ -4,3 +4,5 @@
 	- [[The Mighty War Owl: The rats are the reason for the tired state Mr. Shuhu currently finds himself in.]]
 - [[001.02.02.09.A.00001.01 Deal with the Crabs]]
 	- [[The Mighty War Owl: You agreed to bring a feather of Mr. Shuhu to the Crabs as a sign of your victory over their deadly foe. In turn the Crabs agreed to enter an alliance if you manage to do so. Being part of that alliance grants you access to a small amount of Water Essences.]]
+- [[001.01.02.02.A.00001.03 Mr. Shuhu can finally sleep]]
+	- [[The Mighty War Owl: You managed to find a solution for Mr. Shuhus sleeping issue. Report back to Mark.]]
