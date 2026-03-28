@@ -49,6 +49,8 @@
 			- [[001.02.02.06 Mr. Crabs Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.07 Akshan Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.08 Shaun the Sheep Quest Journal-TestPlaythrough01]]
+				- [[001.02.02.08.A.00004.01 Everybody hates the rats]]
+					- [[Everybody hates the rats: Shaun the Sheep has asked you to help him to get rid of the rats. He promised you the milk of Shaunella and he will even allow you to clean his food stash in return.]]
 			- [[001.02.02.09 The Crabs Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.10 Shaunella Quest Journal-TestPlaythrough01]]
 	- [[001.03 Prologue The Open Sea Board-TestPlaythrough01]]
