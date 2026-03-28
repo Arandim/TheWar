@@ -27,8 +27,8 @@
 - [[The King of Crabs-TestPlaythrough01]]
 - [[Wuffy-TestPlaythrough01]]
 - [[Player01 Arandim-TestPlaythrough01]]
-- Player02 Arandim-TestPlaythrough01
-- Player03 Arandim-TestPlaythrough01
-- Player04 Arandim-TestPlaythrough01
-- Player05 Arandim-TestPlaythrough01
-- Player06 Arandim-TestPlaythrough01
+- [[Player02 Lohse-TestPlaythrough01]]
+- [[Player03 The Red Prince-TestPlaythrough01]]
+- [[Player04 Ifan-TestPlaythrough01]]
+- Player05 Sebille-TestPlaythrough01
+- Player06 Beast-TestPlaythrough01
