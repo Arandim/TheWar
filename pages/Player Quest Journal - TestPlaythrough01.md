@@ -21,6 +21,8 @@
 			- [[001.01.02.03 Rats (Django) Quest Journal-TestPlaythrough01]]
 				- [[001.01.02.03.A.00001.03 Rats disturb Mr. Shuhu]]
 					- [[The Mighty War Owl: The rats are the reason for the tired state Mr. Shuhu currently finds himself in.]]
+				- [[001.01.02.03.A.00001.01 Armistice rats agreed]]
+					- [[The Mighty War Owl: You promised Django that you will help to negotiate a peace treaty between his family and Mr. Shuhu. The ongoing war has to stop.]]
 			- [[001.01.02.04 Mara Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.05 Scarlett Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.06 Eva Quest Journal-TestPlaythrough01]]
