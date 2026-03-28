@@ -1,1 +1,15 @@
 - Tag: Soldier
+- Party Roles
+	- Persuasion: 0 Modifier: 0
+	- Loremaster and Soldier: 0 Modifier: 0
+	- Thievery: 0 Modifier: 0
+	- Sneaking: 0 Modifier: 0
+	- Crafting: 2 Modifier(1to1): +2 Modifier With DnD Stat (Str/Con): +4
+	- Bartering and Stewardship: 0 Modifier: 0
+- DnD Stats
+	- Strength: 15 Modifier: +2
+	- Dexterity: 15 Modifier: +2
+	- Intelligence: 8 Modifier: -1
+	- Constitution: 8 Modifier: -1
+	- Charisma: 15 Modifier: +2
+	- Wisdom: 8 Modifier: -1

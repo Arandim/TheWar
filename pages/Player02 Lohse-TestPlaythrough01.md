@@ -1,7 +1,7 @@
 - Tag: Scholar
 - Party Roles
 	- Persuasion: 0 Modifier: 0
-	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier
+	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier: +3
 	- Thievery: 0 Modifier: 0
 	- Sneaking: 0 Modifier: 0
 	- Crafting: 0 Modifier: 0
