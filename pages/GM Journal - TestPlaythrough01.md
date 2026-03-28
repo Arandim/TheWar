@@ -32,6 +32,7 @@
 				- [[001.02.02.03.A.02 Friendship with Sara]]
 			- [[001.02.02.04 John GM Journal-TestPlaythrough01]]
 			- [[001.02.02.05 Dwori GM Journal-TestPlaythrough01]]
+				- [[001.02.02.05.A.03 Talked to Dwori Recipes received]]
 			- [[001.02.02.06 Mr. Crabs GM Journal-TestPlaythrough01]]
 			- [[001.02.02.07 Akshan GM Journal-TestPlaythrough01]]
 			- [[001.02.02.08 Shaun the Sheep GM Journal-TestPlaythrough01]]

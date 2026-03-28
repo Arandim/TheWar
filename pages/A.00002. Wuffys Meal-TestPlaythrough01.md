@@ -1,2 +1,4 @@
 - [[001.01.02.01.A.00002.01 Wuffy is hungry]]
 	- [[Wuffys meal: Wuffy is locked in the stern room of the lower deck and is very hungry. In order to feed him you have to open the door somehow.]]
+- [[001.02.02.05.A.00002.05 Wuffys meal]]
+	- [[Wuffys meal: You agreed to feed Dworis dog Wuffy on the lower decks. The task appears to be more complicated than you thought because apparently Wuffy is quite the gourmet. You are to ask Wuffy what he wants to eat with the power of the magical ring that Dwori gave you.]]
