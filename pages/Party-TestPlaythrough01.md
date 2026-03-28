@@ -44,5 +44,5 @@
 - Status Effects
 	- #seasick
 - Inspiration
-	- Players: 0
+	- Players: 1
 	- GM: 1

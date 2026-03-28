@@ -18,6 +18,7 @@
 			- [[001.01.02.01.Wuffy GM Journal-TestPlaythrough01]]
 			- [[001.01.02.02 Mr. Shuhu GM Journal-TestPlaythrough01]]
 			- [[001.01.02.03 Rats (Django) GM Journal-TestPlaythrough01]]
+				- [[001.01.02.03.A.01 Armistice rats agreed]]
 			- [[001.01.02.04 Mara GM Journal-TestPlaythrough01]]
 			- [[001.01.02.05 Scarlett GM Journal-TestPlaythrough01]]
 			- [[001.01.02.06 Eva GM Journal-TestPlaythrough01]]
