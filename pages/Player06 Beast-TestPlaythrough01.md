@@ -2,8 +2,8 @@
 - Party Roles
 	- Persuasion: 2 Modifier: +1
 	- Loremaster and Soldier: 0 Modifier: 0
-	- Thievery: 2 Modifier: +1 Modifier
-	- Sneaking: 0 Modifier: 0
+	- Thievery: 2 Modifier: +1 Modifier with DnD Stat: +2
+	- Sneaking: 0 Modifier: 0 Modifier with DnD Stat (Dex/Str): +1
 	- Crafting: 0 Modifier: 0
 	- Bartering and Stewardship: 0 Modifier: 0
 	- Pathfinding and Beastmaster: 0 Modifier: 0
