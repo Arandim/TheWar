@@ -4,3 +4,5 @@
 	- [[Wuffys meal: You agreed to feed Dworis dog Wuffy on the lower decks. The task appears to be more complicated than you thought because apparently Wuffy is quite the gourmet. You are to ask Wuffy what he wants to eat with the power of the magical ring that Dwori gave you.]]
 - [[001.01.02.01.A.00002.06 Wuffys meal order]]
 	- [[Wuffys meal: Wuffy is very happy that Master Dwori is fine. He is also very hungry and therefore asked you to prepare him his meal. He wants A cup of tea. A giblet steak with a mug of water. A poultry steak with a cup of milk. A cup of wine with cheese for dessert. Exactly this and also in that order]]
+- [[001.01.02.01.A.00002.05 Wuffy meal correct]]
+	- [[Wuffys meal: Wuffy finally got something to eat. He will join you in the battle against the Magisters.]]
