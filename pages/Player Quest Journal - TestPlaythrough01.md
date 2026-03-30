@@ -68,6 +68,8 @@
 			- [[001.02.02.09 The Crabs Quest Journal-TestPlaythrough01]]
 				- [[001.02.02.09.A.00001.01 Deal with the Crabs]]
 					- [[The Mighty War Owl: You agreed to bring a feather of Mr. Shuhu to the Crabs as a sign of your victory over their deadly foe. In turn the Crabs agreed to enter an alliance if you manage to do so. Being part of that alliance grants you access to a small amount of Water Essences.]]
+				- [[001.02.02.09.A.00001.04 Deal with the Crabs]]
+					- [[The Mighty War Owl: You managed to convince the Crabs that Mr. Shuhu is dead.]]
 			- [[001.02.02.10 Shaunella Quest Journal-TestPlaythrough01]]
 	- [[001.03 Prologue The Open Sea Board-TestPlaythrough01]]
 		- [[001.03.01 Battling Ships board Quest Journal-TestPlaythrough01]]
