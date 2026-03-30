@@ -43,5 +43,6 @@
 	- Wisdom: 15 Modifier: +2
 - Status Effects
 	- #beestings
+	- #beestingshardcore
 - Inspiration
 	- GM: 1
