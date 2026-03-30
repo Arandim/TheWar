@@ -36,6 +36,8 @@
 				- [[001.02.02.01.A.00006.10 Prepare yourself]]
 					- [[Prepare yourself: Mark has spotted an enemy ship pursuing ours. At the moment the crew including yourself are not ready to fight. You must prepare yourself as best as possible for the upcoming fight. Mark gave you the key to his room which contains a chest with a handbook on how to survive behind enemy lines. Report back to Mark when you feel ready to fight and to discuss battle tactics.]]
 			- [[001.01.02.04 Mara Quest Journal-TestPlaythrough01]]
+				- [[001.01.02.04.A.00008.01 The origin of Source]]
+					- [[Source: During her time as an undercover Legion X soldier Mara investigated the origins of the mysterious liquid that the enemy soldiers are rumoured to consume before the battle. They apparently call it Source. It seems as though this liquid originates from the Wizard Academy.]]
 			- [[001.01.02.05 Scarlett Quest Journal-TestPlaythrough01]]
 			- [[001.01.02.06 Eva Quest Journal-TestPlaythrough01]]
 	- [[001.02 Prologue Upper Deck-TestPlaythrough01]]

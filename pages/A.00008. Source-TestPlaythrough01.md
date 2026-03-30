@@ -1,0 +1,2 @@
+- [[001.01.02.04.A.00008.01 The origin of Source]]
+	- [[Source: During her time as an undercover Legion X soldier Mara investigated the origins of the mysterious liquid that the enemy soldiers are rumoured to consume before the battle. They apparently call it Source. It seems as though this liquid originates from the Wizard Academy.]]
