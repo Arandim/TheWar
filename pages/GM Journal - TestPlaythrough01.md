@@ -16,6 +16,7 @@
 			- [[001.01.02.01.A.01 Talked to Wuffy]]
 		- [[001.01.02 Characters Lower Deck GM Journal-TestPlaythrough01]]
 			- [[001.01.02.01.Wuffy GM Journal-TestPlaythrough01]]
+				- [[001.01.02.01.A.05 Wuffy meal correct]]
 			- [[001.01.02.02 Mr. Shuhu GM Journal-TestPlaythrough01]]
 				- [[001.01.02.02.A.04 Mr. Shuhu owes you]]
 			- [[001.01.02.03 Rats (Django) GM Journal-TestPlaythrough01]]
