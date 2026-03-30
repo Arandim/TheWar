@@ -58,6 +58,8 @@
 			- [[001.02.02.05 Dwori Quest Journal-TestPlaythrough01]]
 				- [[001.02.02.05.A.00002.05 Wuffys meal]]
 					- [[Wuffys meal: You agreed to feed Dworis dog Wuffy on the lower decks. The task appears to be more complicated than you thought because apparently Wuffy is quite the gourmet. You are to ask Wuffy what he wants to eat with the power of the magical ring that Dwori gave you.]]
+				- [[001.02.02.05.A.00002.08 Wuffys meal]]
+					- [[Wuffys meal: Dwori is very happy that Wuffy has been fed a decent meal. He can't wait to be reunited with his dog again.]]
 			- [[001.02.02.06 Mr. Crabs Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.07 Akshan Quest Journal-TestPlaythrough01]]
 				- [[001.02.02.07.A.00007.03 The Thief]]

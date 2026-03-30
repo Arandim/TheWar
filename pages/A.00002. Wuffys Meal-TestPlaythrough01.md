@@ -6,3 +6,5 @@
 	- [[Wuffys meal: Wuffy is very happy that Master Dwori is fine. He is also very hungry and therefore asked you to prepare him his meal. He wants A cup of tea. A giblet steak with a mug of water. A poultry steak with a cup of milk. A cup of wine with cheese for dessert. Exactly this and also in that order]]
 - [[001.01.02.01.A.00002.05 Wuffy meal correct]]
 	- [[Wuffys meal: Wuffy finally got something to eat. He will join you in the battle against the Magisters.]]
+- [[001.02.02.05.A.00002.08 Wuffys meal]]
+	- [[Wuffys meal: Dwori is very happy that Wuffy has been fed a decent meal. He can't wait to be reunited with his dog again.]]
