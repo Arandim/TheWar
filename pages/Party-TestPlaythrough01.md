@@ -5,7 +5,7 @@
 - Tag: Soldier (The Red Prince) Inspiration: 1
 - Tag: Scholar (Lohse) Inspiration: 1
 - Party Roles
-	- Persuasion: 2 Modifier: +1 Arandim
+	- Persuasion: 2 Modifier: +1 Arandim (Str:+2; Con:+2;Wis:+2)
 	  collapsed:: true
 		- The modifier of the invested Civil Ability Points is added to the modifier of the DnD Stat required in the Skill Check
 		- Strength, Constiutution and Wisdom are generally leaining towards morally positive choices
