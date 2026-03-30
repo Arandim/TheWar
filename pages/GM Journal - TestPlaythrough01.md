@@ -40,6 +40,7 @@
 			- [[001.02.02.04 John GM Journal-TestPlaythrough01]]
 			- [[001.02.02.05 Dwori GM Journal-TestPlaythrough01]]
 				- [[001.02.02.05.A.03 Talked to Dwori Recipes received]]
+				- [[001.02.02.05.A.08 Dwori joins]]
 			- [[001.02.02.06 Mr. Crabs GM Journal-TestPlaythrough01]]
 				- [[001.02.02.06.A.02 Diplomacy Mr. Crabs stays]]
 				- [[001.02.02.06.A.05 Know Mr. Crabs]]
