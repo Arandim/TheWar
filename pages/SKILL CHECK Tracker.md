@@ -88,7 +88,6 @@
 	- [[001.05 Prologue The Open Sea Caught]]
 		- [[001.05.01 The Enemy Ship]]
 			- [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]]
-			  collapsed:: true
 				- [[001.05.01.01.01 Lost the battle Thief petpal]]
 					- [[001.05.01.01.01.01 Pers+Int 7]]
 				- [[001.05.01.01.02 Lost the battle Thief no petpal]]
