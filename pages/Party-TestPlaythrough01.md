@@ -42,6 +42,6 @@
 	- Charisma: 15 Modifier: +2
 	- Wisdom: 15 Modifier: +2
 - Status Effects
-	-
+	- #beestings
 - Inspiration
 	- GM: 1
