@@ -1,9 +1,9 @@
-- Tag: Hero
-- Tag: Mystic
-- Tag: Noble
-- Tag: Outlaw
-- Tag: Soldier
-- Tag: Scholar
+- Tag: Hero Inspiration:
+- Tag: Mystic Inspiration:
+- Tag: Noble Inspiration:
+- Tag: Outlaw Inspiration:
+- Tag: Soldier Inspiration:
+- Tag: Scholar Inspiration:
 - Party Roles
 	- Persuasion: 2 Modifier: +1 Arandim
 		- The modifier of the invested Civil Ability Points is added to the modifier of the DnD Stat required in the Skill Check
