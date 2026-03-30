@@ -44,6 +44,8 @@
 					- [[Help the wounded: Mark asked you to help Sara treat the wounded soldiers on the ship.]]
 				- [[001.02.02.01.A.00001.01 Investigate why Mr. Shuhu is so tired]]
 					- [[The Mighty War Owl: Mark asked you to investigate why his war owl Mr. Shuhu is so tired.]]
+				- [[001.02.02.01.A.00001.02 The Mighty War Owl]]
+					- [[The Mighty War Owl: Mark is very happy about his war owl finally getting some sleep. Everyone has to be ready for the upcoming fight tomorrow.]]
 			- [[001.02.02.02 Mr. Rooster Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.03 Sara Quest Journal-TestPlaythrough01]]
 			- [[001.02.02.04 John Quest Journal-TestPlaythrough01]]

@@ -6,3 +6,5 @@
 	- [[The Mighty War Owl: You agreed to bring a feather of Mr. Shuhu to the Crabs as a sign of your victory over their deadly foe. In turn the Crabs agreed to enter an alliance if you manage to do so. Being part of that alliance grants you access to a small amount of Water Essences.]]
 - [[001.01.02.02.A.00001.03 Mr. Shuhu can finally sleep]]
 	- [[The Mighty War Owl: You managed to find a solution for Mr. Shuhus sleeping issue. Report back to Mark.]]
+- [[001.02.02.01.A.00001.02 The Mighty War Owl]]
+	- [[The Mighty War Owl: Mark is very happy about his war owl finally getting some sleep. Everyone has to be ready for the upcoming fight tomorrow.]]
