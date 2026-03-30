@@ -1,9 +1,9 @@
-- Tag: Hero Inspiration:
-- Tag: Mystic Inspiration:
-- Tag: Noble Inspiration:
-- Tag: Outlaw Inspiration:
-- Tag: Soldier Inspiration:
-- Tag: Scholar Inspiration:
+- Tag: Hero (Ifan) Inspiration: 1
+- Tag: Mystic (Arandim) Inspiration: 1
+- Tag: Noble (Beast) Inspiration: 1
+- Tag: Outlaw (Sebille) Inspiration: 1
+- Tag: Soldier (The Red Prince) Inspiration: 1
+- Tag: Scholar (Lohse) Inspiration: 1
 - Party Roles
 	- Persuasion: 2 Modifier: +1 Arandim
 	  collapsed:: true
@@ -44,5 +44,4 @@
 - Status Effects
 	-
 - Inspiration
-	- Players: 6
 	- GM: 1
