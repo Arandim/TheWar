@@ -28,6 +28,7 @@
 			- [[001.01.02.05 Scarlett GM Journal-TestPlaythrough01]]
 				- [[001.01.02.05.A.01 Scarlett healed]]
 			- [[001.01.02.06 Eva GM Journal-TestPlaythrough01]]
+				- [[001.01.02.06.A.01 Eva healed]]
 			- [[001.01.02.07 The Undead GM Journal-TestPlaythrough01]]
 	- [[001.02 Prologue Upper Deck GM Journal-TestPlaythrough01]]
 		- [[001.02.01 Rooms Upper Deck GM Journal-TestPlaythrough01]]
