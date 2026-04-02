@@ -51,6 +51,7 @@
 			- [[001.02.02.09 The Crabs GM Journal-TestPlaythrough01]]
 				- [[001.02.02.09.A.01 Deal with the Crabs]]
 			- [[001.02.02.10 Shaunella GM Journal-TestPlaythrough01]]
+				- [[001.02.02.10.A.01 Shaunella support]]
 	- [[001.03 Prologue The Open Sea Board GM Journal-TestPlaythrough01]]
 		- [[001.03.01 Battling Ships board GM Journal-TestPlaythrough01]]
 		- [[001.03.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
