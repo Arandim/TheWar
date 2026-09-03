@@ -61,6 +61,7 @@
 		- [[001.04.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
 	- [[001.05 Prologue The Open Sea Caught GM Journal-TestPlaythrough01]]
 		- [[001.05.01 The Enemy Ship GM Journal-TestPlaythrough01]]
+			- [[001.05.01.02.A.03 Found the research papers]]
 		- [[001.05.02 Characters and Dialogue GM Journal-TestPlaythrough01]]
 			- [[001.05.02.01 Pierre GM Journal-TestPlaythrough01]]
 			- [[001.05.02.02 Akshan GM Journal-TestPlaythrough01]]
