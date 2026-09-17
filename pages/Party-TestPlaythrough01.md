@@ -1,7 +1,7 @@
 - Tag: Hero (Ifan) Inspiration: 1
-- Tag: Mystic (Arandim) Inspiration: 1
+- Tag: Mystic (Arandim) Inspiration: 0
 - Tag: Noble (Beast) Inspiration: 1
-- Tag: Outlaw (Sebille) Inspiration: 1
+- Tag: Outlaw (Sebille) Inspiration: 0
 - Tag: Soldier (The Red Prince) Inspiration: 1
 - Tag: Scholar (Lohse) Inspiration: 1
 - Party Roles
