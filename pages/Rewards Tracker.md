@@ -61,7 +61,7 @@
 				- [[001.02.06.01 Akshan imprisoned 50 Gold (Total 300 Gold)]]
 				- [[001.02.06.01 25 Reputation with Akshan per delivered Item]]
 			- [[001.02.02.08 Shaun the Sheep]]
-				- [[001.02.06.01 Shaun is happy 30XP]]
+				- [[001.02.06.01 Shaun is happy 80XP]]
 			- [[001.02.02.09 The Crabs]]
 			- [[001.02.02.10 Shaunella]]
 	- [[001.03 Prologue The Open Sea Board]]
