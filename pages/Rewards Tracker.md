@@ -127,4 +127,5 @@
 			- [[001.06.01.06 To the capital]]
 			- [[001.06.01.07 A short stop at Golden Island]]
 			- [[001.06.01.08 Research papers]]
+				- [[001.06.06.03 Food Supplies saved 60XP]]
 		- 001.06.02 Characters and Dialogue
