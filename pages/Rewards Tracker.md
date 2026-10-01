@@ -111,7 +111,7 @@
 				- [[001.05.01.06.02 The enemy Ship 2nd deck Meatbugs did not escape]]
 			- [[001.05.01.07 The enemy Ship 2nd Deck Staircase to 3rd Deck]]
 			- [[001.05.01.08 The enemy Ship 3rd Deck The Stern Room]]
-				- [[001.05.06.01 Magisters Surrendered ?XP]]
+				- [[001.05.06.01 Magisters Surrendered 100XP]]
 		- [[001.05.02 Characters and Dialogue]]
 			- [[001.05.02.01 Pierre]]
 				- [[001.05.06.01 Pierre takes a nap 50XP]]
