@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111105923_0.png)
+- Mr. Rooster is a Rooster you met on board the Lady vengeance.

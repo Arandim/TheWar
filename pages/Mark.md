@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1791110896919_0.png)
-- Mark is a male Human
+- Mark is a male Human Legionnaire you met on the Lady Vengeance. He is the [[General]] of the [[First Legion]] .

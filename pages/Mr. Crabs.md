@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111045440_0.png)
+- Mr. Crabs is a crab you met on board the Lady Vengeance.
