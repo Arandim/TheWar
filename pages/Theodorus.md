@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111268809_0.png)
+- Theodorus is a crab in the service of [[The King of Crabs]] . You met him on board the Lady Vengeance.

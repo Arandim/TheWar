@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111361240_0.png)
+- The King of Crabs is literally the King of Crabs

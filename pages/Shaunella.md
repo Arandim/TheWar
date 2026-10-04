@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111206496_0.png)
+- Shaunella is a sheep with quite the temperament. You met her on bord the Lady Vengeance.

@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111161798_0.png)
+- Shaun is a stubborn Sheep you met on the Lady Vengeance.
