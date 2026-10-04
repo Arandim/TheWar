@@ -3,6 +3,9 @@
 - Description of Backgrounds (Inspirations)
 - Player Quest Journal Entries have to be rewritten. Their two digit ending number has to increase incrementally by 1 independet from the Gm Journal. This has to increase seperatly inside of each Zone/Character Entry.
 	- And rewrite a lot of descriptions on these Journal Entries
+- Text to Speech
+	- https://elevenlabs.io/
+	-
 - Loose ends where you have to continue the story
   collapsed:: true
 	- CHECK [[001.02.02.07.13 Mark does not believe you]]
