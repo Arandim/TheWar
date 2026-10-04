@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110776517_0.png)
+- John is a male Human Legionnaire you met on bord the Lady Vengeance.

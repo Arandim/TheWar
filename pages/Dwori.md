@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110663337_0.png)
+- Dwori is a male Dwarf you met on board the Lady Vengeance. He is a cook and he loves his dog [[Wuffy]] .

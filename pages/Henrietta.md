@@ -1,0 +1,2 @@
+- ![image_1791110597044_0.png](../assets/image_1791110597044_0_1791110722574_0.png)
+- Henrietta is a chicken you met on board the Lady Vengeance.
