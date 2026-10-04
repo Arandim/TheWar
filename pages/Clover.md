@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791111489012_0.png)
+- Captain Clover is the [[Captain]] of the Endurance.

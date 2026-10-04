@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1791111361240_0.png)
-- The King of Crabs is literally the King of Crabs
+- The King of Crabs is literally the King of Crabs. You met him on board the Lady Vengeance.
