@@ -1,0 +1,2 @@
+- ![image_1791109592397_0.png](../assets/image_1791109592397_0_1791109993689_0.png)
+- Grandma Rat is part of the Rat-family you met on board the Lady Vengeance.

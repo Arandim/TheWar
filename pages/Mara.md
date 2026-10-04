@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110108497_0.png)
+- Mara is a female Lizard Mage you met on board the Lady vengeance. She was petrified when you met her.
