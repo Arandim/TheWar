@@ -5,7 +5,7 @@
 	- And rewrite a lot of descriptions on these Journal Entries
 - Text to Speech
 	- https://elevenlabs.io/
-	-
+	- Voice: Felix warm, positive
 - Loose ends where you have to continue the story
   collapsed:: true
 	- CHECK [[001.02.02.07.13 Mark does not believe you]]
