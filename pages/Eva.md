@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791109789158_0.png)
+- Eva is a female elven Archer. You met her frozen on the Lady Vengeance.

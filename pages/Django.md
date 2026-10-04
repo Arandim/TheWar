@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1791109592397_0.png)
-- Django is a strong Rat you met on the Lady Vengeance
+- Django is a strong Rat you met on the Lady Vengeance. He is the father of a struggling Rat-family trying to survive in the harsh world of Rivellon.
