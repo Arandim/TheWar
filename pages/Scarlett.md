@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110193901_0.png)
+- Scarlett is a female human Swordmaster you met on board the Lady Vengeance. She was stunned when you first met her.

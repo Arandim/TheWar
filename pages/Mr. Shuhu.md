@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110260784_0.png)
+- Mr. Shuhu is [[Mark]] 's war owl. You met him on the Lady Vengeance.

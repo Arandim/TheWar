@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110367239_0.png)
+- Wuffy is [[Dwori]] 's dog. You met him on the Lady Vengeance locked away.
