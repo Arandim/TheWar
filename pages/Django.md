@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791109592397_0.png)
+- Django is a strong Rat you met on the Lady Vengeance
