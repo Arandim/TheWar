@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1791111602365_0.png)
-- Dimitry is a Scientist of the MAgisters
+- Dimitry is a Scientist of the [[Magisters]] . You met him on the Endurance.

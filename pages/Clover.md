@@ -1,2 +1,2 @@
 - ![image.png](../assets/image_1791111489012_0.png)
-- Captain Clover is the [[Captain]] of the Endurance.
+- Captain Clover is the [[Captain]] of the Endurance. He is serving the [[Magisters]] . You met him on the Endurance.
