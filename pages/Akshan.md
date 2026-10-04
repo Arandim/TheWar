@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110457088_0.png)
+- Akshan is a shady male Lizard trader who sells (most likely) stolen wares. You met him on the Lady Vengeance.

@@ -1,0 +1,2 @@
+- ![image.png](../assets/image_1791110597044_0.png)
+- Daisy is a chicken you ahve met on bord the Lady Vengeace.
