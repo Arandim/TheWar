@@ -28,13 +28,50 @@
 	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4 (Charactername) (Int:+2;Cha:+2)
 		- The Bartering Modifier is a direct representation of your invested Civil Ability Points and represents your Bartering Skill Ingame
 		- The Stewardship Modifier consists out of your Bartering Modifier and your Intelligence or Charisma Modifier
-	- Pathfinding and Beastmaster: 2 Modifier: +4
+	- Pathfinding and Beastmaster: 2 Modifier: +4 (Charactername) (Con:+2;Wis:+2)
 		- The Pathfinding and Beastmaster Modifier is determined by the amount of invested Civil Ability Points and your Constitution or Wisdom Modifier
-- DnD Stats
+- DnD Stats (Player1)
 	- Strength: 15 Modifier: +2
-	- Dexterity: 8 Modifier: -1
-	- Intelligence: 8 Modifier: -1
-	- Constitution: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
 	- Charisma: 8 Modifier: -1
-	- Wisdom: 15 Modifier: +2
+	- Wisdom: 8 Modifier: -1
+- DnD Stats (Player2)
+	- Strength: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 8 Modifier: -1
+- DnD Stats (Player3)
+	- Strength: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 8 Modifier: -1
+- DnD Stats (Player4)
+	- Strength: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 8 Modifier: -1
+- DnD Stats (Player5)
+	- Strength: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 8 Modifier: -1
+- DnD Stats (Player6)
+	- Strength: 15 Modifier: +2
+	- Dexterity: 13 Modifier: +1
+	- Intelligence: 10 Modifier: +0
+	- Constitution: 10 Modifier: +0
+	- Charisma: 8 Modifier: -1
+	- Wisdom: 8 Modifier: -1
 - Status Effects
+- Inspiration
+	- GM: 1
