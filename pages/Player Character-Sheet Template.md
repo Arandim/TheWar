@@ -1,14 +1,14 @@
-- Tag: Barbarian
-- Tag: Hero
-- Tag: Jester
-- Tag: Mystic
-- Tag: Noble
-- Tag: Outlaw
-- Tag: Soldier
-- Tag: Scholar
-- Tag: Villain
+- Tag: Barbarian (Charactername) Inspiration: 0
+- Tag: Hero (Charactername) Inspiration: 0
+- Tag: Jester (Charactername) Inspiration: 0
+- Tag: Mystic (Charactername) Inspiration: 0
+- Tag: Noble (Charactername) Inspiration: 0
+- Tag: Outlaw (Charactername) Inspiration: 0
+- Tag: Soldier (Charactername) Inspiration: 0
+- Tag: Scholar (Charactername) Inspiration: 0
+- Tag: Villain (Charactername) Inspiration: 0
 - Party Roles
-	- Persuasion: 2 Modifier: +1
+	- Persuasion: 2 Modifier: +1 (Charactername) (Str:+2; Con:+2;Wis:+2;Cha:+2;Int:+2;Dex:+2)
 		- The modifier of the invested Civil Ability Points is added to the modifier of the DnD Stat required in the Skill Check
 		- Strength, Constiutution and Wisdom are generally leaining towards morally positive choices
 		- Charisma, Intelligence and Dexterity are generally leaning towards morally negative choices
