@@ -13,7 +13,7 @@
 	- CHECK [[001.02.02.07.17 Mark does not believe you]]
 	- CHECK [[001.05.01.01 The enemy Ship 1st Deck Prison Cell]] If Players can't find a way to escape and the storm hits the ship and source spills and blobs form
 	- Continue on the Vignettes
-		- [[001.05.01.11.04 Magister alive]]
+		- [[001.05.01.11.04 Magister alive Crew alive]]
 		- [[001.05.01.11.05 All Magisters dead]]
 		- [[001.06.01.06 To the capital]]
 		- [[001.06.01.07 A short stop at Golden Island]]
