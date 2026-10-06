@@ -8,24 +8,24 @@
 - Tag: Scholar (Charactername) Inspiration: 0
 - Tag: Villain (Charactername) Inspiration: 0
 - Party Roles
-	- Persuasion: 2 Modifier: +1 (Charactername) (Str:+2; Con:+2;Wis:+2;Cha:+2;Int:+2;Dex:+2)
+	- Persuasion: 2 Modifier: +1 (Charactername) (Str:+2;Con:+2;Wis:+2;Cha:+2;Int:+2;Dex:+2)
 		- The modifier of the invested Civil Ability Points is added to the modifier of the DnD Stat required in the Skill Check
 		- Strength, Constiutution and Wisdom are generally leaining towards morally positive choices
 		- Charisma, Intelligence and Dexterity are generally leaning towards morally negative choices
-	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier: +3
+	- Loremaster and Soldier: 2 Loremaster Modifier: +1 Soldier Modifier: +3 (Charactername) (Wis:+2;Int:+2)
 		- The Loremaster Modifier is the modifier of your Invested Civil Ability Points
 		- The Soldier Modifier consists of the Loremaster Modifier and either your Intelligence or Wisdom Modifier
-	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2
+	- Thievery: 2 Thievery Modifier: +1 Modifier with DnD Stat: +2 (Charactername) (Wis:+2;Cha:+2)
 		- The Thievery Modifier is the modifier of your Invested Civil Ability Points
 		- To determine your Modifier with DnD Stat, you add half of your Wisdom or Charisma modifier (rounded down) to your Thievery Modifier
 		- The Modifier with DnD Stat is the value that represents your Thievery Skill Ingame
-	- Sneaking: 0 Sneaking Modifier: 0 Modifier with DnD Stat: +1
+	- Sneaking: 0 Sneaking Modifier: 0 Modifier with DnD Stat: +1 (Charactername) (Dex:+2;Str:+2)
 		- The Sneaking Modifier is the modifier of your Invested Civil Ability Points
 		- To determine your Modifier with DnD Stat, you add half of your Dexterity or Strength modifier (rounded down) to your Sneaking Modifier
 		- The Modifier with DnD Stat is the value that represents your Sneaking Skill Ingame
-	- Crafting: 2 Modifier: +2 Modifier With DnD Stat: +4
+	- Crafting: 2 Modifier: +2 Modifier With DnD Stat: +4 (Charactername) (Str:+2;Con:+2)
 		- The Crafting Modifier is determined by the amount of invested Civil Ability Points and your Strength or Constitution Modifier
-	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4
+	- Bartering and Stewardship: 2 Bartering Modifier: +2 Stewardship Modifier: +4 (Charactername) (Int:+2;Cha:+2)
 		- The Bartering Modifier is a direct representation of your invested Civil Ability Points and represents your Bartering Skill Ingame
 		- The Stewardship Modifier consists out of your Bartering Modifier and your Intelligence or Charisma Modifier
 	- Pathfinding and Beastmaster: 2 Modifier: +4
