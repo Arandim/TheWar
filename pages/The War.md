@@ -7,7 +7,6 @@
 	- https://elevenlabs.io/
 	- Voice: Felix warm, positive & contemporary RP
 - Loose ends where you have to continue the story
-  collapsed:: true
 	- CHECK [[001.02.02.07.13 Mark does not believe you]]
 	- CHECK [[001.02.02.07.15 Could not steal back the items from Akshan]]
 	- CHECK [[001.02.02.07.17 Mark does not believe you]]
@@ -15,6 +14,8 @@
 	- Continue on the Vignettes
 		- [[001.05.01.11.04 Magister alive Crew alive]]
 		- [[001.05.01.11.05 All Magisters dead Crew alive]]
+		- [[001.05.01.11.06 Magister alive Crew dead]]
+		- [[001.05.01.11.07 All Magisters dead Crew dead]]
 		- [[001.06.01.06 To the capital]]
 		- [[001.06.01.07 A short stop at Golden Island]]
 	- Facekick from Shaunella has to be removed once you either reach The Capital or the Golden Island.
